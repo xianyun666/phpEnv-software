@@ -1,0 +1,101 @@
+ls
+ll
+cd ../
+ll
+la
+ls
+ls
+ll
+ls
+;;
+ll
+ls
+ll
+;;
+composer -v
+git
+ls
+ll
+ls
+git
+ls
+ls
+ll
+MinGW
+ll
+ls
+ls
+MinGW
+git
+cd www\
+ls
+composer create-project topthink/think=5.0.* tp5  --prefer-dist
+composer -h
+ll
+composer -v
+ping 192.168.58.128
+composer -v
+systeminfo
+composer -v
+systeminfo
+cd www\
+ls
+composer create-project --prefer-dist laravel/laravel blog "5.5.*"
+set pePath=%~dp0
+echo %pePath%server
+cd 
+set pePath
+cd %pePath%
+cd  "%pePath%"
+echo
+echo this is %%cd%%  %cd%
+cd ..
+telnet 127.0.0.1 11211
+telnet 127.0.0.1 11211
+cd  "%pePath%"
+echo
+echo this is %%cd%%  %cd%
+cd ..
+telnet 127.0.0.1 11211
+D:\phpEnv\server\memcached\memcached.exe -h
+D:\phpEnv\server\memcached\memcached.exe -d runservice -p 11211
+D:\phpEnv\server\memcached\memcached.exe -d  -p 11211
+D:\phpEnv\server\memcached\memcached.exe -d
+ D:\phpEnv\server\memcached\memcached.exe -d runservice
+ D:\phpEnv\server\memcached\memcached.exe -d runservice
+telnet 127.0.0.1 11211
+D:\phpEnv\server\memcached\memcached.exe -d
+ D:\phpEnv\server\memcached\memcached.exe -d runservice
+ D:\phpEnv\server\memcached\memcached.exe -d runservice
+telnet 127.0.0.1 11211
+./configure
+autogen.sh
+automake -v
+ls
+telent 127.0.0.1 11211
+telnet 127.0.0.1 11211
+LS
+rm -rf SmartGit\
+ls
+ls
+rmdir SmartGit\
+telent 127.0.0.1 11211
+telnet 127.0.0.1 11211
+LS
+rm -rf SmartGit\
+ls
+rmdir SmartGit\
+d:
+e:
+;s
+f:
+c:
+ls
+ls
+rmdir SmartGit\
+e:
+f:
+c:
+d:
+;s
+ls

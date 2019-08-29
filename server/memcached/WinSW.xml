@@ -1,0 +1,13 @@
+<configuration>
+  
+  <!-- ID of the service. It should be unique across the Windows system-->
+  <id>.phpEnv_Memcached</id>
+  <!-- Display name of the service -->
+  <name>.phpEnv_Memcached</name>
+  <!-- Service description -->
+  <description>.phpEnv_Memcached</description>
+  
+  <!-- Path to the executable, which should be started -->
+  <executable>%BASE%\memcached.exe</executable>
+  <arguments>-p 11211 -m 512</arguments>
+</configuration>
