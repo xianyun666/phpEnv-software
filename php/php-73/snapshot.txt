@@ -1,7 +1,7 @@
 This snapshot was automatically generated on
-Tue, 05 Feb 2019 23:38:09 +0000
+Wed, 28 Aug 2019 10:28:33 +0000
 
-Version: 7.3.2
+Version: 7.3.9
 Branch: HEAD
 Build: C:\php-snap-build\php73\vc15\x64\obj\Release
 
@@ -16,7 +16,6 @@ filter
 hash
 iconv
 json
-mcrypt
 SPL
 pcre
 readline
@@ -80,22 +79,22 @@ Module: php_ftp.dll
 
 Module: php_intl.dll
 ===========================
-	icuuc63.dll
-	icuin63.dll
-	icuio63.dll
+	icuuc64.dll
+	icuin64.dll
+	icuio64.dll
 
-Module: icuuc63.dll
+Module: icuuc64.dll
 ===========================
-	icudt63.dll
+	icudt64.dll
 
-Module: icuin63.dll
+Module: icuin64.dll
 ===========================
-	icuuc63.dll
+	icuuc64.dll
 
-Module: icuio63.dll
+Module: icuio64.dll
 ===========================
-	icuuc63.dll
-	icuin63.dll
+	icuuc64.dll
+	icuin64.dll
 
 Module: php_ldap.dll
 ===========================
