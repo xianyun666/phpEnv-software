@@ -1,0 +1,1088 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Hasher\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: DoggyDaddy <l_s@generalmail.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_BE\n"
+"X-Country: be\n"
+"X-Country-Name: Belgium\n"
+"X-Language-Name: Dutch (Belgium)\n"
+"X-Language-Name-Native: Nederlands (België)\n"
+"X-Translators: DoggyDaddy <l_s@generalmail.com>\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: fcompare.sautopastedfromclipboard
+msgid "Auto pasted from clipboard"
+msgstr "Automatisch geplakt van plakbord"
+
+#: fcomparefiles.smatchinghashes
+msgid "Matching:"
+msgstr "Overeenkomend met:"
+
+#: fcomparefiles.snotmatchinghashes
+msgid "Not matching:"
+msgstr "Niet overeenkomend met:"
+
+#: fcomparefiles.snummatchedhashes
+msgid "Result: %d out of %d available hashes matched."
+msgstr "Resultaat: %d van de %d beschikbare hashes kwamen overeen."
+
+#: fmain.serroroccurred
+msgid "An error has occurred."
+msgstr "Er was een fout."
+
+#: fmain.sfailedtosavelog
+msgid "Failed to save the log:"
+msgstr "Log opslaan mislukt:"
+
+#: fmain.sfilecancelled
+msgid "File cancelled"
+msgstr "Bestand geannuleerd"
+
+#: fmain.sfilenotfound
+msgid "File not found"
+msgstr "Bestand niet gevonden"
+
+#: fmain.shashcoppied
+msgid "copied"
+msgstr "gekopieerd"
+
+#: fmain.shashesoffilesdontmatch
+msgid "Hashes of files do not match"
+msgstr "Hashes van de bestanden komen niet overeen"
+
+#: fmain.slogfilesaved
+msgid "Log file saved"
+msgstr "Logbestand opgeslagen"
+
+#: fmain.sstatuscancelled
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: fmain.sstatuserror
+msgctxt "fmain.sstatuserror"
+msgid "Error"
+msgstr "Fout"
+
+#: fmain.sstatusfinished
+msgid "Finished"
+msgstr "Klaar"
+
+#: fmain.sstatuslogcleared
+msgid "Log cleared"
+msgstr "Log gewist"
+
+#: fmain.sstatusmessagescleared
+msgid "Messages cleared"
+msgstr "Berichten verwijderd"
+
+#: fmain.sstatusready
+msgid "Ready"
+msgstr "Klaar"
+
+#: fmain.sstatusworking
+msgid "Working..."
+msgstr "Bezig..."
+
+#: fmain.stexthashed
+msgid "Text hashed"
+msgstr "Tekst gehashed"
+
+#: fmain.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Wil je een \"Pro\" versie kopen om deze beperking te verwijderen?"
+
+#: fmain.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Wil je een \"Pro\" versie kopen om deze functie te ontgrendelen?"
+
+#: fmain.s_cannot_create_license_dir
+msgctxt "fmain.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Kan geen map maken voor een licentie bestand."
+
+#: fmain.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Bent u zeker dat u de registratie van dit product wilt annuleren?\n"
+"\n"
+"Dit zal uw registratie verwijderen en de \"Pro\" versie deactiveren.\n"
+
+#: fmain.s_contact_email
+msgctxt "fmain.s_contact_email"
+msgid "Contact email"
+msgstr "Contact e-mail"
+
+#: fmain.s_contact_name
+msgctxt "fmain.s_contact_name"
+msgid "Contact name"
+msgstr "Contact naam"
+
+#: fmain.s_error_details
+msgctxt "fmain.s_error_details"
+msgid "Error"
+msgstr "Fout"
+
+#: fmain.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Deze functie is niet beschikbaar in deze versie."
+
+#: fmain.s_free_license_note
+msgctxt "fmain.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Dit programma kan ALLEEN gebruikt en verdeeld worden voor niet-commerciële doeleinden en met gepaste attributies."
+
+#: fmain.s_issue_date
+msgctxt "fmain.s_issue_date"
+msgid "Issue date"
+msgstr "Datum uitgave"
+
+#: fmain.s_license
+msgctxt "fmain.s_license"
+msgid "License"
+msgstr "Licentie"
+
+#: fmain.s_licensed_to
+msgctxt "fmain.s_licensed_to"
+msgid "Licensed to"
+msgstr "Licentie van"
+
+#: fmain.s_license_expiry
+msgctxt "fmain.s_license_expiry"
+msgid "License expiry"
+msgstr "Licentie vervaldatum"
+
+#: fmain.s_license_has_expired
+msgctxt "fmain.s_license_has_expired"
+msgid "License has expired."
+msgstr "Licentie is vervallen."
+
+#: fmain.s_license_load_failed
+msgctxt "fmain.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Licentie laden mislukt."
+
+#: fmain.s_license_remove_failed
+msgctxt "fmain.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Licentie verwijderen mislukt."
+
+#: fmain.s_license_remove_ok
+msgctxt "fmain.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Licentie is verwijderd."
+
+#: fmain.s_maxallowedfilesperrun
+msgid "This version is limited to a maximum of %s files per run."
+msgstr "Deze versie is beperkt tot maximaal %s bestanden per keer."
+
+#: fmain.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(enkel niet-commercieel gebruik)"
+
+#: fmain.s_number_of_computers
+msgctxt "fmain.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Aantal computers"
+
+#: fmain.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Voor meer informatie lees aub de volledige licentie"
+
+#: fmain.s_registration_error
+msgctxt "fmain.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Registratiecode is niet geldig."
+
+#: fmain.s_registration_ok
+msgctxt "fmain.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Registratie was succesvol!"
+
+#: fmain.s_upgrade_expiry
+msgctxt "fmain.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Upgrade vervallen"
+
+#: fsavelog.shashtypeauto
+msgid "Auto"
+msgstr "Automatisch"
+
+#: tformabout.caption
+msgctxt "tformabout.caption"
+msgid "About"
+msgstr "Over"
+
+#: tformabout.label_author.caption
+msgid "den4b Team"
+msgstr ""
+
+#: tformabout.label_author2.caption
+msgid "Author:"
+msgstr "Auteur:"
+
+#: tformabout.label_date.caption
+msgid "Date:"
+msgstr "Datum:"
+
+#: tformabout.label_email.caption
+msgid "support@den4b.com"
+msgstr ""
+
+#: tformabout.label_email2.caption
+msgid "Email:"
+msgstr "E-mail:"
+
+#: tformabout.label_title.caption
+msgctxt "tformabout.label_title.caption"
+msgid "Hasher"
+msgstr ""
+
+#: tformabout.label_version.caption
+msgid "Version:"
+msgstr "Versie:"
+
+#: tformabout.label_website.caption
+msgid "www.den4b.com"
+msgstr ""
+
+#: tformabout.label_website2.caption
+msgid "Website:"
+msgstr "Webstek:"
+
+#: tformcompare.caption
+msgid "Compare Hash"
+msgstr "Vergelijk hash"
+
+#: tformcompare.cb_comparetoanyhash.caption
+msgid "Compare to any of the available hash types"
+msgstr "Vergelijk met elk van de beschikbare hashtypes"
+
+#: tformcompare.label1.caption
+msgid "Your hash:"
+msgstr "Uw hash:"
+
+#: tformcompare.label2.caption
+msgid "Comparing to:"
+msgstr "Vergelijken met:"
+
+#: tformcompare.label_hashtype.caption
+msgctxt "TFORMCOMPARE.LABEL_HASHTYPE.CAPTION"
+msgid "..."
+msgstr "..."
+
+#: tformcompare.label_pasted.caption
+msgctxt "tformcompare.label_pasted.caption"
+msgid "..."
+msgstr "..."
+
+#: tformcomparefiles.caption
+msgid "Compare Files"
+msgstr "Bestanden vergelijken"
+
+#: tformcomparefiles.label1.caption
+msgid "Additional information:"
+msgstr "Aanvullende informatie:"
+
+#: tformcomparefiles.label_filea.caption
+msgid "File A:"
+msgstr "Bestand A:"
+
+#: tformcomparefiles.label_fileb.caption
+msgid "File B:"
+msgstr "Bestand B:"
+
+#: tformlogviewer.caption
+msgid "Log Viewer"
+msgstr "Log viewer"
+
+#: tformlogviewer.listview.columns[0].caption
+msgid "#"
+msgstr ""
+
+#: tformlogviewer.listview.columns[1].caption
+msgctxt "tformlogviewer.listview.columns[1].caption"
+msgid "File"
+msgstr "Bestand"
+
+#: tformlogviewer.listview.columns[2].caption
+msgid "Size"
+msgstr "Grootte"
+
+#: tformlogviewer.tb_copytoclipboard.caption
+msgctxt "tformlogviewer.tb_copytoclipboard.caption"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.actionabout.caption
+msgctxt "TFORMMAIN.ACTIONABOUT.CAPTION"
+msgid "About"
+msgstr "Over"
+
+#: tformmain.actionaddfiles.caption
+msgctxt "tformmain.actionaddfiles.caption"
+msgid "Add Files"
+msgstr "Bestanden toevoegen"
+
+#: tformmain.actionaddfiles.hint
+msgctxt "TFORMMAIN.ACTIONADDFILES.HINT"
+msgid "Add Files"
+msgstr "Bestanden toevoegen"
+
+#: tformmain.actionaddfolder.caption
+msgctxt "tformmain.actionaddfolder.caption"
+msgid "Add Folder"
+msgstr "Map toevoegen"
+
+#: tformmain.actionaddfolder.hint
+msgctxt "TFORMMAIN.ACTIONADDFOLDER.HINT"
+msgid "Add Folder"
+msgstr "Map toevoegen"
+
+#: tformmain.actioncancel.caption
+msgctxt "tformmain.actioncancel.caption"
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: tformmain.actioncancel.hint
+msgid "Cancel all files"
+msgstr "Alle bestanden annuleren"
+
+#: tformmain.actionclearlog.caption
+msgid "Clear Log"
+msgstr "Log wissen"
+
+#: tformmain.actionclearmessages.caption
+msgid "Clear Messages"
+msgstr "Boodschappen wissen"
+
+#: tformmain.actioncomparenexttwofiles.caption
+msgid "Compare next two files (Hold CTRL)"
+msgstr "Vergelijk de volgende twee bestanden (CTRL indrukken)"
+
+#: tformmain.actioncomparetonextfile.caption
+msgid "Compare to next file (Hold SHIFT)"
+msgstr "Vergelijk met volgend bestand (SHIFT indrukken)"
+
+#: tformmain.actioncopymessages.caption
+msgid "Copy Messages"
+msgstr "Kopieer berichten"
+
+#: tformmain.actioncopyrights.caption
+msgid "Copyrights"
+msgstr "Auteursrechten"
+
+#: tformmain.actionexit.caption
+msgid "Exit"
+msgstr "Afsluiten"
+
+#: tformmain.actionexporttoclipboard.caption
+msgid "Export file info to clipboard"
+msgstr "Exporteer bestandsinfo naar plakbord"
+
+#: tformmain.actionforum.caption
+msgid "Forum (online)"
+msgstr "Forum (online)"
+
+#: tformmain.actionhelp.caption
+msgid "Help (online)"
+msgstr "Help (online)"
+
+#: tformmain.actionhistory.caption
+msgid "Version History"
+msgstr "Versie geschiedenis"
+
+#: tformmain.actionlitevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite vs Pro (online)"
+
+#: tformmain.actionpurchase.caption
+msgid "Purchase (online)"
+msgstr "Kopen (online)"
+
+#: tformmain.actionregister.caption
+msgctxt "tformmain.actionregister.caption"
+msgid "Register"
+msgstr "Registreren"
+
+#: tformmain.actionrehashfile.hint
+msgid "Rehash current file"
+msgstr "Herhash huidig bestand"
+
+#: tformmain.actionsavelog.caption
+msgctxt "TFORMMAIN.ACTIONSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "Log opslaan"
+
+#: tformmain.actionselectall.caption
+msgid "Select All"
+msgstr "Selecteer alle"
+
+#: tformmain.actionselectnone.caption
+msgid "Select None"
+msgstr "Selecteer niets"
+
+#: tformmain.actionsettings.caption
+msgctxt "tformmain.actionsettings.caption"
+msgid "Settings"
+msgstr "Instellingen"
+
+#: tformmain.actionskip.caption
+msgid "Skip"
+msgstr "Overslaan"
+
+#: tformmain.actionskip.hint
+msgid "Skip current file"
+msgstr "Sla huidig bestand over"
+
+#: tformmain.actiontexthash.caption
+msgctxt "tformmain.actiontexthash.caption"
+msgid "Hash Text"
+msgstr "Hash tekst"
+
+#: tformmain.actiontexthash.hint
+msgctxt "TFORMMAIN.ACTIONTEXTHASH.HINT"
+msgid "Hash Text"
+msgstr "Hash tekst"
+
+#: tformmain.actiontogglemessages.caption
+msgctxt "tformmain.actiontogglemessages.caption"
+msgid "Toggle Messages"
+msgstr "Schakel berichten in/uit"
+
+#: tformmain.actiontogglemessages.hint
+msgctxt "TFORMMAIN.ACTIONTOGGLEMESSAGES.HINT"
+msgid "Toggle Messages"
+msgstr "Schakel berichten in/uit"
+
+#: tformmain.actionunregister.caption
+msgid "Unregister"
+msgstr "Deregistreren"
+
+#: tformmain.actionviewlog.caption
+msgctxt "tformmain.actionviewlog.caption"
+msgid "View Log"
+msgstr "Log bekijken"
+
+#: tformmain.actionviewlog.hint
+msgctxt "TFORMMAIN.ACTIONVIEWLOG.HINT"
+msgid "View Log"
+msgstr "Log bekijken"
+
+#: tformmain.caption
+msgctxt "TFORMMAIN.CAPTION"
+msgid "Hasher"
+msgstr ""
+
+#: tformmain.checkboxcrc32.caption
+msgid "CRC32"
+msgstr "CRC32"
+
+#: tformmain.checkboxed2k.caption
+msgid "ED2K"
+msgstr "ED2K"
+
+#: tformmain.checkboxmd2.caption
+msgid "MD2"
+msgstr "MD2"
+
+#: tformmain.checkboxmd4.caption
+msgid "MD4"
+msgstr "MD4"
+
+#: tformmain.checkboxmd5.caption
+msgid "MD5"
+msgstr "MD5"
+
+#: tformmain.checkboxrmd128.caption
+msgid "RMD128"
+msgstr "RMD128"
+
+#: tformmain.checkboxrmd160.caption
+msgid "RMD160"
+msgstr "RMD160"
+
+#: tformmain.checkboxsha1.caption
+msgid "SHA1"
+msgstr "SHA1"
+
+#: tformmain.checkboxsha256.caption
+msgid "SHA256"
+msgstr "SHA256"
+
+#: tformmain.checkboxsha512.caption
+msgid "SHA512"
+msgstr "SHA512"
+
+#: tformmain.labelattributes.caption
+msgid "Attributes:"
+msgstr "Attributen:"
+
+#: tformmain.labelfilesize.caption
+msgid "File size:"
+msgstr "Bestandmaat:"
+
+#: tformmain.labelfiletimecreated.caption
+msgid "Created:"
+msgstr "Gemaakt:"
+
+#: tformmain.labelfiletimemodified.caption
+msgid "Modified:"
+msgstr "Gewijzigd:"
+
+#: tformmain.menuitem1.caption
+msgctxt "TFORMMAIN.MENUITEM1.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem20.caption
+msgctxt "TFORMMAIN.MENUITEM20.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem21.caption
+msgctxt "TFORMMAIN.MENUITEM21.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem23.caption
+msgctxt "TFORMMAIN.MENUITEM23.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem24.caption
+msgctxt "TFORMMAIN.MENUITEM24.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem3.caption
+msgctxt "tformmain.menuitem3.caption"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem31.caption
+msgctxt "TFORMMAIN.MENUITEM31.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem33.caption
+msgctxt "TFORMMAIN.MENUITEM33.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem4.caption
+msgctxt "TFORMMAIN.MENUITEM4.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem8.caption
+msgctxt "TFORMMAIN.MENUITEM8.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.mi_filemenu.caption
+msgctxt "TFORMMAIN.MI_FILEMENU.CAPTION"
+msgid "File"
+msgstr "Bestand"
+
+#: tformmain.mi_helpmenu.caption
+msgid "Help"
+msgstr "Help"
+
+#: tformmain.mi_language.caption
+msgid "Language"
+msgstr "Taal"
+
+#: tformmain.mi_logmenu.caption
+msgid "Log"
+msgstr "Log"
+
+#: tformmain.mi_optionsmenu.caption
+msgid "Options"
+msgstr "Opties"
+
+#: tformmain.opendialog.title
+msgid "Add files"
+msgstr "Bestanden toevoegen"
+
+#: tformmain.panel_draganddrop.caption
+msgid "Drag and drop your files and folders"
+msgstr "Sleep je bestanden en mappen naar hier"
+
+#: tformmain.panel_holdcontrol.caption
+msgid "Hold SHIFT to compare to next or CTRL to compare two files"
+msgstr "SHIFT vergelijken met volgende, CTRL vergelijken twee bestanden"
+
+#: tformmain.sb_comparecrc32.hint
+msgctxt "tformmain.sb_comparecrc32.hint"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_compareed2k.hint
+msgctxt "TFORMMAIN.SB_COMPAREED2K.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparemd2.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD2.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparemd4.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD4.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparemd5.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD5.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparermd128.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD128.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparermd160.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD160.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparesha1.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA1.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparesha256.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA256.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_comparesha512.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA512.HINT"
+msgid "Compare hash"
+msgstr "Vergelijk hash"
+
+#: tformmain.sb_copycrc32.hint
+msgctxt "TFORMMAIN.SB_COPYCRC32.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copyed2k.hint
+msgctxt "TFORMMAIN.SB_COPYED2K.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copymd2.hint
+msgctxt "TFORMMAIN.SB_COPYMD2.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copymd4.hint
+msgctxt "TFORMMAIN.SB_COPYMD4.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copymd5.hint
+msgctxt "TFORMMAIN.SB_COPYMD5.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copyrmd128.hint
+msgctxt "TFORMMAIN.SB_COPYRMD128.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copyrmd160.hint
+msgctxt "TFORMMAIN.SB_COPYRMD160.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copysha1.hint
+msgctxt "TFORMMAIN.SB_COPYSHA1.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copysha256.hint
+msgctxt "TFORMMAIN.SB_COPYSHA256.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.sb_copysha512.hint
+msgctxt "TFORMMAIN.SB_COPYSHA512.HINT"
+msgid "Copy to clipboard"
+msgstr "Naar plakbord kopiëren"
+
+#: tformmain.selectdirectorydialog.title
+msgid "Add folders"
+msgstr "Mappen toevoegen"
+
+#: tformmain.tb_savelog.hint
+msgctxt "tformmain.tb_savelog.hint"
+msgid "Save Log"
+msgstr "Log opslaan"
+
+#: tformregister.bb_cancel.caption
+msgctxt "TFORMREGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: tformregister.bb_register.caption
+msgctxt "TFORMREGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Registreren"
+
+#: tformregister.caption
+msgid "Registration"
+msgstr "Registratie"
+
+#: tformregister.label_entercode.caption
+msgid "Please enter your registration code:"
+msgstr "Voer aub uw registratiecode in:"
+
+#: tformsavelog.bitbtn_cancel.caption
+msgctxt "TFORMSAVELOG.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: tformsavelog.bitbtn_save.caption
+msgctxt "tformsavelog.bitbtn_save.caption"
+msgid "Save"
+msgstr "Opslaan"
+
+#: tformsavelog.caption
+msgctxt "TFORMSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "Opslaan als"
+
+#: tformsavelog.label_fileformat.caption
+msgid "File format:"
+msgstr "Bestandsformaat:"
+
+#: tformsavelog.label_hashtype.caption
+msgid "Hash type:"
+msgstr "Hash type:"
+
+#: tformsavelog.label_targetpath.caption
+msgid "Target file path:"
+msgstr "Pad van het doelbestand:"
+
+#: tformsavelog.radiobutton_usefilenameonly.caption
+msgid "Use file names only"
+msgstr "Enkel bestandsnamen gebruiken"
+
+#: tformsavelog.radiobutton_usefilepath.caption
+msgid "Use file paths"
+msgstr "Bestandspaden gebruiken"
+
+#: tformsettings.bb_cancel.caption
+msgctxt "TFORMSETTINGS.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: tformsettings.bb_save.caption
+msgctxt "TFORMSETTINGS.BB_SAVE.CAPTION"
+msgid "Save"
+msgstr "Opslaan"
+
+#: tformsettings.caption
+msgctxt "TFORMSETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Instellingen"
+
+#: tformsettings.cb_includeheaderinlogviewerexport.caption
+msgid "Include header in the log viewer export"
+msgstr ""
+
+#: tformsettings.cb_rememberlocationlogviewer.caption
+msgid "Remember location of the log viewer"
+msgstr "Herinner positie van de log viewer"
+
+#: tformsettings.cb_rememberlocationmainwindow.caption
+msgid "Remember location of the main window"
+msgstr "Herinner positie van hoofdvenster"
+
+#: tformsettings.cb_showtoolbarcaptions.caption
+msgid "Show captions of buttons in the toolbar"
+msgstr "Toon titels van knoppen in gereedschapsbalk"
+
+#: tformsettings.cb_stayontop.caption
+msgid "Stay on top of other windows"
+msgstr "Altijd boven andere vensters"
+
+#: tformsettings.cb_uppercasehash.caption
+msgid "Use upper case hashes"
+msgstr "Gebruik hoofdletterhashes"
+
+#: tformtermsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Aanvaarden"
+
+#: tformtermsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite vs Pro"
+
+#: tformtermsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Kopen"
+
+#: tformtermsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Voer registratiecode in"
+
+#: tformtermsofuse.caption
+msgid "Terms of Use"
+msgstr "Gebruiksvoorwaarden"
+
+#: tformtermsofuse.groupbox1.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Let aub op de gebruiksvoorwaarden van dit programma:"
+
+#: tformtermsofuse.label_commercial.caption
+msgid "For commercial use you must purchase a commercial license or a \"Pro\" version. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Voor comercieel gebruik moet u een commerciële licentie of een \"Pro\" versie gebruiken. Als u al een licentie hebt, voer dan aub uw registratiecode in. Bedankt voor uw fair-play."
+
+#: tformtermsofuse.label_noncommercial.caption
+msgctxt "TFORMTERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Dit programma kan ALLEEN gebruikt en verdeeld worden voor niet-commerciële doeleinden en met gepaste attributies."
+
+#: tformtermsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Overweeg aub ook om een \"Pro\" versie te kopen om de verder ontwikkeling van dit programma te ondersteunen."
+
+#: tformtext.bitbtnhash.caption
+msgctxt "TFORMTEXT.BITBTNHASH.CAPTION"
+msgid "Hash Text"
+msgstr "Hash tekst"
+
+#: tformtext.caption
+msgctxt "TFORMTEXT.CAPTION"
+msgid "Hash Text"
+msgstr "Hash tekst"
+
+#: tformtext.groupboxencoding.caption
+msgid "Encoding:"
+msgstr "Codering:"
+
+#: tformtext.rb_encodingansi.caption
+msgid "ANSI"
+msgstr "ANSI"
+
+#: tformtext.rb_encodingunicode.caption
+msgid "Unicode"
+msgstr "Unicode"
+
+#: tformtext.rb_encodingutf8.caption
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: ufunctions.sshellopenfileerror
+msgid "Could not open the following path:"
+msgstr "Kon het volgende pad niet openen:"
+
+#: ufunctions.ssizebytes
+msgid "B"
+msgstr "B"
+
+#: ufunctions.ssizegb
+msgid "GB"
+msgstr "GB"
+
+#: ufunctions.ssizeinbytes
+msgid "%s bytes"
+msgstr ""
+
+#: ufunctions.ssizekb
+msgid "KB"
+msgstr "KB"
+
+#: ufunctions.ssizemb
+msgid "MB"
+msgstr "MB"
+
+#: ufunctions.sspeedpersecbytes
+msgid "B/s"
+msgstr "B/s"
+
+#: ufunctions.sspeedpersecgb
+msgid "GB/s"
+msgstr "GB/s"
+
+#: ufunctions.sspeedperseckb
+msgid "KB/s"
+msgstr "KB/s"
+
+#: ufunctions.sspeedpersecmb
+msgid "MB/s"
+msgstr "MB/s"
+
+# geen begrijpelijke, niet belachelijke vertaling voor digest volgens mij
+#: uhasher.sed2knodigestblocks
+msgid "ED2K digest blocks are not available"
+msgstr "ED2K digest blokken zijn niet beschikbaar"
+
+#: uhasher.sed2kovertheblocksize
+msgid "ED2K went over the block size"
+msgstr "ED2K overschreed de blokgrootte"
+
+#: uhasher.sfailedtoreadfileproperties
+msgid "Failed to read file properties"
+msgstr "Bestandseigenschappen lezen mislukt"
+
+#: uhasher.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "Foute digestgrootte voor %s"
+
+#: uhasher.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "Ongeldige data- of buffergrootte"
+
+#: uhasher.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "Niet ondersteund hash type: %s"
+
+#: uhashertests.sselftestfailed
+msgid "Failed %d out of %d self tests."
+msgstr "%d van de %d zelftests mislukt."
+
+#: uhashertests.sselftestpassed
+msgid "Passed all %d self tests."
+msgstr "Alle %d zelftests geslaagd."
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Kan geen map maken voor een licentie bestand."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "Contact e-mail"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "Contact naam"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Bestand wissen mislukt:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Licentie data laden mislukt:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Licentie data opslaan mislukt:"
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "Datum uitgave"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "Licentie"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "Licentie van"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Licentie staat op de zwarte lijst."
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "Licentie vervaldatum"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "Licentie is vervallen."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "Licentie is ongeldig!"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Licentie laden mislukt."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "U moet de licentie vernieuwen om het product te activeren."
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Licentie verwijderen mislukt."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Licentie is verwijderd."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Uw licentie is buiten de upgrade periode."
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Aantal computers"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Registratiecode is niet geldig."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Registratiebestand niet gevonden."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Registratiebestand laden mislukt."
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Registratie was succesvol!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Upgrade vervallen"
+
+# thread: vertaalbaar? nuttig indien vertaald?
+#: uthreads.sthreadqueuesnotassigned
+msgid "Thread queues are not assigned"
+msgstr "Thread wachtrijen zijn niet toegewezen"
+
+#: uverificationfile.snotsupportedverificationformat
+msgid "Not supported verification format (%d)"
+msgstr "Niet ondersteund verificatieformaat (%d)"
+
+#: uverificationfile.sverifyformatsfv
+msgid "Simple file verification (SFV)"
+msgstr "Eenvoudige bestandsverificatie (SFV)"
+
+# sum: vertaalbaar? nuttig indien vertaald?
+#: uverificationfile.sverifyformatsum
+msgid "Sum file (MD5SUM, SHA1SUM, etc)"
+msgstr "Sum bestand (MD5SUM, SHA1SUM, enz)"

@@ -1,0 +1,1091 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Hasher\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Florin David <webmaster@filecroco.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"X-Country: ro\n"
+"X-Country-Name: Romania\n"
+"X-Language-Name: Romanian\n"
+"X-Language-Name-Native: Română\n"
+"X-Translators: Florin David <webmaster@filecroco.com>\n"
+"X-Generator: Poedit 1.7\n"
+
+#: fcompare.sautopastedfromclipboard
+msgid "Auto pasted from clipboard"
+msgstr "Lipit automat din clipboard"
+
+#: fcomparefiles.smatchinghashes
+msgid "Matching:"
+msgstr "Potrivire:"
+
+#: fcomparefiles.snotmatchinghashes
+msgid "Not matching:"
+msgstr "Nepotrivire:"
+
+#: fcomparefiles.snummatchedhashes
+msgid "Result: %d out of %d available hashes matched."
+msgstr "Rezultat: %d din %d haşuri disponibile s-au potrivit."
+
+#: fmain.serroroccurred
+msgid "An error has occurred."
+msgstr "A apărut o eroare."
+
+#: fmain.sfailedtosavelog
+msgid "Failed to save the log:"
+msgstr "Nu s-a reuşit salvarea jurnalului:"
+
+#: fmain.sfilecancelled
+msgid "File cancelled"
+msgstr "Fişier anulat"
+
+#: fmain.sfilenotfound
+msgid "File not found"
+msgstr "Fișierul nu a fost găsit"
+
+#: fmain.shashcoppied
+msgid "copied"
+msgstr "copiat"
+
+#: fmain.shashesoffilesdontmatch
+msgid "Hashes of files do not match"
+msgstr "Haşurile de fișiere nu se potrivesc"
+
+#: fmain.slogfilesaved
+msgid "Log file saved"
+msgstr "Jurnal salvat"
+
+#: fmain.sstatuscancelled
+msgid "Cancelled"
+msgstr "Anulat"
+
+#: fmain.sstatuserror
+msgctxt "fmain.sstatuserror"
+msgid "Error"
+msgstr "Eroare"
+
+#: fmain.sstatusfinished
+msgid "Finished"
+msgstr "Finalizat"
+
+#: fmain.sstatuslogcleared
+msgid "Log cleared"
+msgstr "Jurnal sters"
+
+#: fmain.sstatusmessagescleared
+msgid "Messages cleared"
+msgstr "Mesaje eliminate"
+
+#: fmain.sstatusready
+msgid "Ready"
+msgstr "Gata"
+
+#: fmain.sstatusworking
+msgid "Working..."
+msgstr "In lucru ..."
+
+#: fmain.stexthashed
+msgid "Text hashed"
+msgstr "Text haşuit"
+
+#: fmain.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Doriţi să achiziţionaţi o versiune \"Pro\" pentru a elimina această limită?"
+
+#: fmain.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Doriţi să achiziţionaţi o versiune \"Pro\" pentru a debloca această caracteristică?"
+
+#: fmain.s_cannot_create_license_dir
+msgctxt "fmain.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Nu s-a putut crea un director pentru fişierul de licenţă."
+
+#: fmain.s_confirmunregister
+#, fuzzy
+#| msgid ""
+#| "Are you sure you want to unregister the product?\n"
+#| "\n"
+#| "This will remove your license and deactivate the \"Pro\" version.\n"
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Sunteţi sigur ca doriţi sa renunţaţi la inregistrarea produsului? \n"
+"\n"
+"Acest lucru va elimina licenţa şi va dezactiva versiunea \"Pro\". \n"
+
+#: fmain.s_contact_email
+msgctxt "fmain.s_contact_email"
+msgid "Contact email"
+msgstr "Email de contact"
+
+#: fmain.s_contact_name
+msgctxt "fmain.s_contact_name"
+msgid "Contact name"
+msgstr "Nume contact"
+
+#: fmain.s_error_details
+msgctxt "fmain.s_error_details"
+msgid "Error"
+msgstr "Eroare"
+
+#: fmain.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Această caracteristică nu este disponibilă în această versiune."
+
+#: fmain.s_free_license_note
+msgctxt "fmain.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Această aplicaţie poate fi folosită şi distribuită NUMAI în scopuri necomerciale şi cu atribuţiile adecvate."
+
+#: fmain.s_issue_date
+msgctxt "fmain.s_issue_date"
+msgid "Issue date"
+msgstr "Data emiterii"
+
+#: fmain.s_license
+msgctxt "fmain.s_license"
+msgid "License"
+msgstr "Licenţa"
+
+#: fmain.s_licensed_to
+msgctxt "fmain.s_licensed_to"
+msgid "Licensed to"
+msgstr "Licenţiat către"
+
+#: fmain.s_license_expiry
+msgctxt "fmain.s_license_expiry"
+msgid "License expiry"
+msgstr "Licenţa expiră la"
+
+#: fmain.s_license_has_expired
+msgctxt "fmain.s_license_has_expired"
+msgid "License has expired."
+msgstr "Licenţa a expirat"
+
+#: fmain.s_license_load_failed
+msgctxt "fmain.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Nu s-a reușit încărcarea licenței."
+
+#: fmain.s_license_remove_failed
+msgctxt "fmain.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Nu s-a reușit eliminarea licenței."
+
+#: fmain.s_license_remove_ok
+msgctxt "fmain.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Licenţa a fost eliminată."
+
+#: fmain.s_maxallowedfilesperrun
+msgid "This version is limited to a maximum of %s files per run."
+msgstr "Această versiune este limitată la un numar maxim de %s fişiere pe rulare."
+
+#: fmain.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(numai pentru uz necomercial)"
+
+#: fmain.s_number_of_computers
+msgctxt "fmain.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Numărul de calculatoare"
+
+#: fmain.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Pentru mai multe informații vă rugăm să citiți condițiile de licențiere"
+
+#: fmain.s_registration_error
+msgctxt "fmain.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Codul de înregistrare nu este valid."
+
+#: fmain.s_registration_ok
+msgctxt "fmain.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Înregistrare reușită!"
+
+#: fmain.s_upgrade_expiry
+msgctxt "fmain.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Update-ul expiră la"
+
+#: fsavelog.shashtypeauto
+msgid "Auto"
+msgstr "Automat"
+
+#: tformabout.caption
+msgctxt "tformabout.caption"
+msgid "About"
+msgstr "Despre"
+
+#: tformabout.label_author.caption
+msgid "den4b Team"
+msgstr ""
+
+#: tformabout.label_author2.caption
+msgid "Author:"
+msgstr "Autor:"
+
+#: tformabout.label_date.caption
+msgid "Date:"
+msgstr "Data:"
+
+#: tformabout.label_email.caption
+msgid "support@den4b.com"
+msgstr ""
+
+#: tformabout.label_email2.caption
+msgid "Email:"
+msgstr "Email:"
+
+#: tformabout.label_title.caption
+msgctxt "tformabout.label_title.caption"
+msgid "Hasher"
+msgstr ""
+
+#: tformabout.label_version.caption
+msgid "Version:"
+msgstr "Versiune:"
+
+#: tformabout.label_website.caption
+msgid "www.den4b.com"
+msgstr ""
+
+#: tformabout.label_website2.caption
+msgid "Website:"
+msgstr "Site web:"
+
+#: tformcompare.caption
+msgid "Compare Hash"
+msgstr "Compară haş "
+
+#: tformcompare.cb_comparetoanyhash.caption
+msgid "Compare to any of the available hash types"
+msgstr "Compara cu oricare dintre tipurile de haş disponibile"
+
+#: tformcompare.label1.caption
+msgid "Your hash:"
+msgstr "Haşul dumneavoastră:"
+
+#: tformcompare.label2.caption
+msgid "Comparing to:"
+msgstr "In comparatie cu:"
+
+#: tformcompare.label_hashtype.caption
+msgctxt "TFORMCOMPARE.LABEL_HASHTYPE.CAPTION"
+msgid "..."
+msgstr ""
+
+#: tformcompare.label_pasted.caption
+msgctxt "tformcompare.label_pasted.caption"
+msgid "..."
+msgstr ""
+
+#: tformcomparefiles.caption
+msgid "Compare Files"
+msgstr "Compară fişiere"
+
+#: tformcomparefiles.label1.caption
+msgid "Additional information:"
+msgstr "Informații suplimentare:"
+
+#: tformcomparefiles.label_filea.caption
+msgid "File A:"
+msgstr "Fişier A:"
+
+#: tformcomparefiles.label_fileb.caption
+msgid "File B:"
+msgstr "Fişier B:"
+
+#: tformlogviewer.caption
+msgid "Log Viewer"
+msgstr "Vizualizator jurnal"
+
+#: tformlogviewer.listview.columns[0].caption
+msgid "#"
+msgstr ""
+
+#: tformlogviewer.listview.columns[1].caption
+msgctxt "tformlogviewer.listview.columns[1].caption"
+msgid "File"
+msgstr "Fişier"
+
+#: tformlogviewer.listview.columns[2].caption
+msgid "Size"
+msgstr "Dimensiune"
+
+#: tformlogviewer.tb_copytoclipboard.caption
+msgctxt "tformlogviewer.tb_copytoclipboard.caption"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.actionabout.caption
+msgctxt "TFORMMAIN.ACTIONABOUT.CAPTION"
+msgid "About"
+msgstr "Despre"
+
+#: tformmain.actionaddfiles.caption
+msgctxt "tformmain.actionaddfiles.caption"
+msgid "Add Files"
+msgstr "Adaugă fișiere"
+
+#: tformmain.actionaddfiles.hint
+msgctxt "TFORMMAIN.ACTIONADDFILES.HINT"
+msgid "Add Files"
+msgstr "Adaugă fișiere"
+
+#: tformmain.actionaddfolder.caption
+msgctxt "tformmain.actionaddfolder.caption"
+msgid "Add Folder"
+msgstr "Adăugare folder"
+
+#: tformmain.actionaddfolder.hint
+msgctxt "TFORMMAIN.ACTIONADDFOLDER.HINT"
+msgid "Add Folder"
+msgstr "Adăugare folder"
+
+#: tformmain.actioncancel.caption
+msgctxt "tformmain.actioncancel.caption"
+msgid "Cancel"
+msgstr "Anulare"
+
+#: tformmain.actioncancel.hint
+msgid "Cancel all files"
+msgstr "Anuleaza toate fişierele"
+
+#: tformmain.actionclearlog.caption
+msgid "Clear Log"
+msgstr "Șterge jurnalul"
+
+#: tformmain.actionclearmessages.caption
+msgid "Clear Messages"
+msgstr "Eliminati mesajele"
+
+#: tformmain.actioncomparenexttwofiles.caption
+msgid "Compare next two files (Hold CTRL)"
+msgstr "Compară două fişiere (apasaţi CTRL)"
+
+#: tformmain.actioncomparetonextfile.caption
+msgid "Compare to next file (Hold SHIFT)"
+msgstr "Compara cu fişierul următor (apăsaţi SHIFT)"
+
+#: tformmain.actioncopymessages.caption
+msgid "Copy Messages"
+msgstr "Copiaţi mesajele"
+
+#: tformmain.actioncopyrights.caption
+msgid "Copyrights"
+msgstr "Drepturi de autor"
+
+#: tformmain.actionexit.caption
+msgid "Exit"
+msgstr "Ieşire"
+
+#: tformmain.actionexporttoclipboard.caption
+msgid "Export file info to clipboard"
+msgstr "Export informaţii fişier in clipboard"
+
+#: tformmain.actionforum.caption
+msgid "Forum (online)"
+msgstr "Forum (online)"
+
+#: tformmain.actionhelp.caption
+msgid "Help (online)"
+msgstr "Ajutor (online)"
+
+#: tformmain.actionhistory.caption
+msgid "Version History"
+msgstr "Istoricul versiunilor"
+
+#: tformmain.actionlitevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite sau  Pro (online)"
+
+#: tformmain.actionpurchase.caption
+msgid "Purchase (online)"
+msgstr "Cumpără (online)"
+
+#: tformmain.actionregister.caption
+msgctxt "tformmain.actionregister.caption"
+msgid "Register"
+msgstr "Înregistreaza"
+
+#: tformmain.actionrehashfile.hint
+msgid "Rehash current file"
+msgstr "Rehaş fişierul curent"
+
+#: tformmain.actionsavelog.caption
+msgctxt "TFORMMAIN.ACTIONSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "Salvează jurnalul"
+
+#: tformmain.actionselectall.caption
+msgid "Select All"
+msgstr "Selectează tot"
+
+#: tformmain.actionselectnone.caption
+msgid "Select None"
+msgstr "Deselectează tot"
+
+#: tformmain.actionsettings.caption
+msgctxt "tformmain.actionsettings.caption"
+msgid "Settings"
+msgstr "Setări"
+
+#: tformmain.actionskip.caption
+msgid "Skip"
+msgstr "Treci peste"
+
+#: tformmain.actionskip.hint
+msgid "Skip current file"
+msgstr "Sari peste fişierul curent"
+
+#: tformmain.actiontexthash.caption
+msgctxt "tformmain.actiontexthash.caption"
+msgid "Hash Text"
+msgstr "Haş text "
+
+#: tformmain.actiontexthash.hint
+msgctxt "TFORMMAIN.ACTIONTEXTHASH.HINT"
+msgid "Hash Text"
+msgstr "Haş text "
+
+#: tformmain.actiontogglemessages.caption
+msgctxt "tformmain.actiontogglemessages.caption"
+msgid "Toggle Messages"
+msgstr "Comutati mesajele"
+
+#: tformmain.actiontogglemessages.hint
+msgctxt "TFORMMAIN.ACTIONTOGGLEMESSAGES.HINT"
+msgid "Toggle Messages"
+msgstr "Comutati mesajele"
+
+#: tformmain.actionunregister.caption
+msgid "Unregister"
+msgstr "Anularea înregistrării"
+
+#: tformmain.actionviewlog.caption
+msgctxt "tformmain.actionviewlog.caption"
+msgid "View Log"
+msgstr "Vizualizează jurnalul"
+
+#: tformmain.actionviewlog.hint
+msgctxt "TFORMMAIN.ACTIONVIEWLOG.HINT"
+msgid "View Log"
+msgstr "Vizualizează jurnalul"
+
+#: tformmain.caption
+msgctxt "TFORMMAIN.CAPTION"
+msgid "Hasher"
+msgstr ""
+
+#: tformmain.checkboxcrc32.caption
+msgid "CRC32"
+msgstr ""
+
+#: tformmain.checkboxed2k.caption
+msgid "ED2K"
+msgstr ""
+
+#: tformmain.checkboxmd2.caption
+msgid "MD2"
+msgstr ""
+
+#: tformmain.checkboxmd4.caption
+msgid "MD4"
+msgstr ""
+
+#: tformmain.checkboxmd5.caption
+msgid "MD5"
+msgstr ""
+
+#: tformmain.checkboxrmd128.caption
+msgid "RMD128"
+msgstr ""
+
+#: tformmain.checkboxrmd160.caption
+msgid "RMD160"
+msgstr ""
+
+#: tformmain.checkboxsha1.caption
+msgid "SHA1"
+msgstr ""
+
+#: tformmain.checkboxsha256.caption
+msgid "SHA256"
+msgstr ""
+
+#: tformmain.checkboxsha512.caption
+msgid "SHA512"
+msgstr ""
+
+#: tformmain.labelattributes.caption
+msgid "Attributes:"
+msgstr "Atribute:"
+
+#: tformmain.labelfilesize.caption
+msgid "File size:"
+msgstr "Mărime fișier:"
+
+#: tformmain.labelfiletimecreated.caption
+msgid "Created:"
+msgstr "Creat la:"
+
+#: tformmain.labelfiletimemodified.caption
+msgid "Modified:"
+msgstr "Modificat:"
+
+#: tformmain.menuitem1.caption
+msgctxt "TFORMMAIN.MENUITEM1.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem20.caption
+msgctxt "TFORMMAIN.MENUITEM20.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem21.caption
+msgctxt "TFORMMAIN.MENUITEM21.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem23.caption
+msgctxt "TFORMMAIN.MENUITEM23.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem24.caption
+msgctxt "TFORMMAIN.MENUITEM24.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem3.caption
+msgctxt "tformmain.menuitem3.caption"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem31.caption
+msgctxt "TFORMMAIN.MENUITEM31.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem33.caption
+msgctxt "TFORMMAIN.MENUITEM33.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem4.caption
+msgctxt "TFORMMAIN.MENUITEM4.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem8.caption
+msgctxt "TFORMMAIN.MENUITEM8.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.mi_filemenu.caption
+msgctxt "TFORMMAIN.MI_FILEMENU.CAPTION"
+msgid "File"
+msgstr "Fişier"
+
+#: tformmain.mi_helpmenu.caption
+msgid "Help"
+msgstr "Ajutor"
+
+#: tformmain.mi_language.caption
+msgid "Language"
+msgstr "Limbă"
+
+#: tformmain.mi_logmenu.caption
+msgid "Log"
+msgstr "Jurnal"
+
+#: tformmain.mi_optionsmenu.caption
+msgid "Options"
+msgstr "Optiuni"
+
+#: tformmain.opendialog.title
+msgid "Add files"
+msgstr "Adaugă fișiere"
+
+#: tformmain.panel_draganddrop.caption
+msgid "Drag and drop your files and folders"
+msgstr "Glisaţi şi depuneţi fişierele şi folderele"
+
+#: tformmain.panel_holdcontrol.caption
+msgid "Hold SHIFT to compare to next or CTRL to compare two files"
+msgstr "Apăsaţi  SHIFT pentru a compara cu următorul sau CTRL pentru a compara două fişiere"
+
+#: tformmain.sb_comparecrc32.hint
+msgctxt "tformmain.sb_comparecrc32.hint"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_compareed2k.hint
+msgctxt "TFORMMAIN.SB_COMPAREED2K.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparemd2.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD2.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparemd4.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD4.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparemd5.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD5.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparermd128.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD128.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparermd160.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD160.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparesha1.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA1.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparesha256.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA256.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_comparesha512.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA512.HINT"
+msgid "Compare hash"
+msgstr "Compară hash"
+
+#: tformmain.sb_copycrc32.hint
+msgctxt "TFORMMAIN.SB_COPYCRC32.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copyed2k.hint
+msgctxt "TFORMMAIN.SB_COPYED2K.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copymd2.hint
+msgctxt "TFORMMAIN.SB_COPYMD2.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copymd4.hint
+msgctxt "TFORMMAIN.SB_COPYMD4.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copymd5.hint
+msgctxt "TFORMMAIN.SB_COPYMD5.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copyrmd128.hint
+msgctxt "TFORMMAIN.SB_COPYRMD128.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copyrmd160.hint
+msgctxt "TFORMMAIN.SB_COPYRMD160.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copysha1.hint
+msgctxt "TFORMMAIN.SB_COPYSHA1.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copysha256.hint
+msgctxt "TFORMMAIN.SB_COPYSHA256.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.sb_copysha512.hint
+msgctxt "TFORMMAIN.SB_COPYSHA512.HINT"
+msgid "Copy to clipboard"
+msgstr "Copiere în clipboard"
+
+#: tformmain.selectdirectorydialog.title
+msgid "Add folders"
+msgstr "Adăugare foldere"
+
+#: tformmain.tb_savelog.hint
+msgctxt "tformmain.tb_savelog.hint"
+msgid "Save Log"
+msgstr "Salvează jurnalul"
+
+#: tformregister.bb_cancel.caption
+msgctxt "TFORMREGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Anulare"
+
+#: tformregister.bb_register.caption
+msgctxt "TFORMREGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Înregistreaza"
+
+#: tformregister.caption
+msgid "Registration"
+msgstr "Înregistrare"
+
+#: tformregister.label_entercode.caption
+msgid "Please enter your registration code:"
+msgstr "Vă rugăm să introduceţi codul de înregistrare:"
+
+#: tformsavelog.bitbtn_cancel.caption
+msgctxt "TFORMSAVELOG.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Anulare"
+
+#: tformsavelog.bitbtn_save.caption
+msgctxt "tformsavelog.bitbtn_save.caption"
+msgid "Save"
+msgstr "Salvează"
+
+#: tformsavelog.caption
+msgctxt "TFORMSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "Salvează jurnal"
+
+#: tformsavelog.label_fileformat.caption
+msgid "File format:"
+msgstr "Format fișier:"
+
+#: tformsavelog.label_hashtype.caption
+msgid "Hash type:"
+msgstr "Tip haş:"
+
+#: tformsavelog.label_targetpath.caption
+msgid "Target file path:"
+msgstr "Cale fişier ţintă:"
+
+#: tformsavelog.radiobutton_usefilenameonly.caption
+msgid "Use file names only"
+msgstr "Utilizaţi numai nume de fişiere"
+
+#: tformsavelog.radiobutton_usefilepath.caption
+msgid "Use file paths"
+msgstr "Utilizaţi căi de fişier"
+
+#: tformsettings.bb_cancel.caption
+msgctxt "TFORMSETTINGS.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Anulare"
+
+#: tformsettings.bb_save.caption
+msgctxt "TFORMSETTINGS.BB_SAVE.CAPTION"
+msgid "Save"
+msgstr "Salvează"
+
+#: tformsettings.caption
+msgctxt "TFORMSETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Setări"
+
+#: tformsettings.cb_includeheaderinlogviewerexport.caption
+msgid "Include header in the log viewer export"
+msgstr ""
+
+#: tformsettings.cb_rememberlocationlogviewer.caption
+msgid "Remember location of the log viewer"
+msgstr "Reţine locaţia vizualizatorului de jurnal"
+
+#: tformsettings.cb_rememberlocationmainwindow.caption
+msgid "Remember location of the main window"
+msgstr "Reţine locaţia ferestrei principale"
+
+#: tformsettings.cb_showtoolbarcaptions.caption
+msgid "Show captions of buttons in the toolbar"
+msgstr "Arată legenda butoanelor din bara de instrumente"
+
+#: tformsettings.cb_stayontop.caption
+msgid "Stay on top of other windows"
+msgstr ""
+
+#: tformsettings.cb_uppercasehash.caption
+msgid "Use upper case hashes"
+msgstr "Utilizaţi majuscule pebtru haş"
+
+#: tformtermsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Acceptă"
+
+#: tformtermsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite sau  Pro"
+
+#: tformtermsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Cumpărare"
+
+#: tformtermsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Introduceţi codul de înregistrare"
+
+#: tformtermsofuse.caption
+msgid "Terms of Use"
+msgstr "Termeni de utilizare"
+
+#: tformtermsofuse.groupbox1.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Vă rugăm să fiţi atenţi la termenii de utilizare ai acestei aplicaţii:"
+
+#: tformtermsofuse.label_commercial.caption
+msgid "For commercial use you must purchase a commercial license or a \"Pro\" version. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Pentru uz comercial trebuie să achiziţionaţi o licenţă comerciala sau o versiune \"Pro\". În cazul în care dețineți deja o licenta vă rugăm să introduceţi codul de înregistrare. Vă mulţumim corectitudine."
+
+#: tformtermsofuse.label_noncommercial.caption
+msgctxt "TFORMTERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Această aplicaţie poate fi folosită şi distribuită NUMAI în scopuri necomerciale şi cu atribuţiile adecvate."
+
+#: tformtermsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Vă rugăm, sa luaţi în considerare achiziţionarea unei versiuni \"Pro\" pentru a sprijini dezvoltarea viitoare a acestei aplicatii."
+
+#: tformtext.bitbtnhash.caption
+msgctxt "TFORMTEXT.BITBTNHASH.CAPTION"
+msgid "Hash Text"
+msgstr "Haş text"
+
+#: tformtext.caption
+msgctxt "TFORMTEXT.CAPTION"
+msgid "Hash Text"
+msgstr "Haş text "
+
+#: tformtext.groupboxencoding.caption
+msgid "Encoding:"
+msgstr "Codificare:"
+
+#: tformtext.rb_encodingansi.caption
+msgid "ANSI"
+msgstr "ANSI"
+
+#: tformtext.rb_encodingunicode.caption
+msgid "Unicode"
+msgstr "Unicode"
+
+#: tformtext.rb_encodingutf8.caption
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: ufunctions.sshellopenfileerror
+msgid "Could not open the following path:"
+msgstr "Nu s-a putut deschide calea următoare:"
+
+#: ufunctions.ssizebytes
+msgid "B"
+msgstr "B"
+
+#: ufunctions.ssizegb
+msgid "GB"
+msgstr "GB"
+
+#: ufunctions.ssizeinbytes
+msgid "%s bytes"
+msgstr ""
+
+#: ufunctions.ssizekb
+msgid "KB"
+msgstr "KB"
+
+#: ufunctions.ssizemb
+msgid "MB"
+msgstr "MB"
+
+#: ufunctions.sspeedpersecbytes
+msgid "B/s"
+msgstr "B/s"
+
+#: ufunctions.sspeedpersecgb
+msgid "GB/s"
+msgstr "GB/s"
+
+#: ufunctions.sspeedperseckb
+msgid "KB/s"
+msgstr "KB/s"
+
+#: ufunctions.sspeedpersecmb
+msgid "MB/s"
+msgstr "MB/s"
+
+#: uhasher.sed2knodigestblocks
+msgid "ED2K digest blocks are not available"
+msgstr "Blocurile ED2K nu sunt disponibile"
+
+#: uhasher.sed2kovertheblocksize
+msgid "ED2K went over the block size"
+msgstr "ED2K a trecut peste mărimea blocului"
+
+#: uhasher.sfailedtoreadfileproperties
+msgid "Failed to read file properties"
+msgstr "Eroare la citirea proprietăților fişierului"
+
+#: uhasher.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "Dimensiune incorecta pentru %s"
+
+#: uhasher.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "Date sau dimensiune tampon nevalide"
+
+#: uhasher.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "Nu acceptă tipul de haş: %s"
+
+#: uhashertests.sselftestfailed
+msgid "Failed %d out of %d self tests."
+msgstr "Nu au reuşit %d din %d din teste proprii."
+
+#: uhashertests.sselftestpassed
+msgid "Passed all %d self tests."
+msgstr "A trecut toate %d teste proprii."
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Nu s-a putut crea un director pentru fişierul de licenţă."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "Email de contact"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "Nume contact"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr ""
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr ""
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr ""
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "Data emiterii"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "Licenţa"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "Licenţiat către"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr ""
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "Licenţa expiră la"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "Licenţa a expirat"
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr ""
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Nu s-a reușit încărcarea licenței."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr ""
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Nu s-a reușit eliminarea licenței."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Licenţa a fost eliminată."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr ""
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Numărul de calculatoare"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Codul de înregistrare nu este valid."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr ""
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr ""
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Înregistrare reușită!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Update-ul expiră la"
+
+#: uthreads.sthreadqueuesnotassigned
+msgid "Thread queues are not assigned"
+msgstr "Cozile nu sunt asignate"
+
+#: uverificationfile.snotsupportedverificationformat
+msgid "Not supported verification format (%d)"
+msgstr "Nu acceptă formatul de verificare (%d)"
+
+#: uverificationfile.sverifyformatsfv
+msgid "Simple file verification (SFV)"
+msgstr "Verificare simpla fişier (SFV)"
+
+#: uverificationfile.sverifyformatsum
+msgid "Sum file (MD5SUM, SHA1SUM, etc)"
+msgstr "Suma fişier (MD5SUM, SHA1SUM, etc)"
+

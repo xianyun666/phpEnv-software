@@ -1,0 +1,152 @@
+Hasher 3.4 (2018-10-23)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Fixed: Incorrectly initialized main form width constraint. Issue introduced in v3.3.0.3 Beta.
+
+3.3.0.3 Beta (2018-10-08)
+* Strip control and white space characters when comparing to a hash from user input.
+* Remember and restore "maximized" window state.
+* Updated Portuguese language file. Thanks to Igor Rückert.
+
+3.3.0.2 Beta (2018-01-05)
+* Added "How to translate" link to the Languages menu.
+* Find application language file independently of the executable file name.
+* Respect the setting of upper case hashes option when comparing two files.
+* Respect the setting of upper case hashes option when saving the log.
+* Dialog for comparing two files is now resizable.
+* Added Dutch (Belgium) language file.
+* Other internal changes.
+
+3.3.0.1 Beta (2017-02-17)
+* Include file size in bytes in the exported file information.
+* Fixed an incorrect DST offset applied to file dates outside of current DST period.
+* Respect the setting of upper case hashes option in the Log Viewer.
+* Added an option to include header in the Log Viewer export to clipboard.
+* Updated Russian language file.
+
+
+Hasher 3.3 (2016-12-04)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+3.2.0.6 Beta (2016-12-04)
+* Updated copyright information.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+
+3.2.0.5 Beta (2016-03-02)
+* Added French language file. Thanks to Ozzii.
+* Updated Portuguese (Brazil) language file. Thanks to Igor Rückert.
+* Resolve environment variables in custom storage path in Storage.ini.
+
+3.2.0.4 Beta (2015-10-31)
+* Added Japanese language file.
+
+3.2.0.3 Beta (2015-08-02)
+* Added Spanish (Mexico) translation file.
+* Minor code optimizations.
+
+3.2.0.2 Beta (2015-06-20)
+* Added "Stay on top" option.
+* Updated Russian (ru) translation file.
+
+3.2.0.1 Beta (2015-06-19)
+* Store all user data in user profile directory for Installer version.
+* Set application BidiMode (right-to-left) according to the selected language, instead of by system locale.
+* Added BiDiCode setting in INI file for overriding application BidiMode, possible values: AUTO, LTR, RTL.
+* Improvements to the registration procedure.
+* General code refactoring.
+
+
+Hasher 3.2 (2015-06-17)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+3.1.0.3 Beta (2015-02-14)
+* Added Chinese Simplified (zh_CN) translation file;
+* Added Italian (it) translation file;
+* Added Romanian (ro) translation file;
+
+3.1.0.2 Beta (2015-01-10)
+* Changed full language title from "Title (Native)" to "Title - Native";
+* Added Portuguese (Brazil) translation file;
+
+3.1.0.1 Beta (2014-11-23)
+* Added multilingual support using PO files in Languages folder;
+* Added Russian language file;
+* Fixed encoding mix-up in registration data handling;
+* Added high resolution icon 256x256 and cleaned up 16x16;
+* Adjusted positioning of components to better fit localized text;
+
+
+Hasher 3.1 (2014-10-05)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+3.0.0.6 Beta (2014-04-22)
+* Additional fixes for visual artifacts caused by messages window;
+* Simplified and platform independent method for remembering form dimensions;
+
+3.0.0.5 Beta (2014-04-19)
+* Fix for failed toggling of messages on some system configurations;
+
+3.0.0.4 Beta (2014-03-28)
+* Added option to remember location of the log viewer;
+* Use restored (not maximized) form dimensions for remembering locations;
+* Log Viewer and Hash Text dialogs are no longer shown on taskbar;
+* Comparison of files will display a failure if no same type hashes available;
+
+3.0.0.3 Beta (2014-03-27)
+* Display all hints in the status bar instead of tooltips;
+* Added hints for clickable panels in the status bar;
+* Added hints for mini-buttons of hash operations (select, copy, compare);
+* Added a button to rehash the current file (beside the file path field);
+* Disable clearing of the log while hashing is in progress; 
+* Handle errors gracefully when saving the log, do not abort application;
+* General options moved to a dedicated Settings dialog;
+* Added option to display toolbar button captions;
+* Messages panel is now resizable, allowing maximization of main window;
+* Automatically paste content from clipboard into hash comparison window;
+* Added option to compare a user specified hash to all available hash types;
+* Select all log entries with a CTRL+A shortcut;
+
+3.0.0.2 Beta (2014-02-28)
+* Added option to remember location of the main window;
+
+3.0.0.1 Beta (2014-02-21)
+* Compact version numbering for major releases, e.g.: v1.0 instead of v1.0.0.0;
+
+
+Hasher 3.0 (2014-02-20)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* First public release after a complete re-implementation!
+* Full set of supported hash algorithms: CRC32, MD2, MD4, MD5, SHA1, SHA256,
+  SHA512, RipeMD128, RipeMD160, ED2K (used by eDonkey/eMule networks);
+* Ability to generate multiple hash types at a time;
+* Log viewer for viewing the list of processed files in a table;
+* Export all processed files from the log as a verification file
+  (SFV, MD5SUM, SHA1SUM, etc);
+* Hold SHIFT to compare to next or CTRL to compare two files;
+* Brand new interface, layout and program icon;
+* Unicode file paths are supported;
+
+
+Hasher 1.20 (5 December 2009)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Incorporated new hashing libraries (Delphi Fundamentals v3.28);
+* Eliminated problem with SHA1 implementation, affected files larger than 1GB;
+* Hasher can process multiple files, one-by-one, queuing them;
+* Added option to write results of hashing and comparing to a log file;
+* Added option to recalculate file hash if user changes the hash type;
+* String hash is recalculated if user changes the hashing algorithm;
+* Input field for calculating string hash is expended to accept multiple lines;
+* General cleanup of the source code and minor optimizations;
+* Added option to show hash/checksum in upper case;
+* Added links to view and clear the results file;
+* Added option to compare every 2 files;
+* Removed SUM64 algorithm;
+* Updated program icon;
+
+
+Hasher 1.00 (17 January 2006)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Program emerged as a result of a BackUp Utility project break down.
+  Basic idea for this tool is to calculate hash/checksum for a file.
+

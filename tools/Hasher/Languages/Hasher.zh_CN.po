@@ -1,0 +1,1086 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Hasher\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: WanderMax <hmptwm@hotmail.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Country: cn\n"
+"X-Country-Name: China\n"
+"X-Language-Name: Chinese Simplified\n"
+"X-Language-Name-Native: 简体中文\n"
+"X-Translators: WanderMax <hmptwm@gmail.com>\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: fcompare.sautopastedfromclipboard
+msgid "Auto pasted from clipboard"
+msgstr "从剪贴板自动粘贴"
+
+#: fcomparefiles.smatchinghashes
+msgid "Matching:"
+msgstr "匹配："
+
+#: fcomparefiles.snotmatchinghashes
+msgid "Not matching:"
+msgstr "不匹配："
+
+#: fcomparefiles.snummatchedhashes
+msgid "Result: %d out of %d available hashes matched."
+msgstr "结果： %d 个已匹配，共 %d 个文件。"
+
+#: fmain.serroroccurred
+msgid "An error has occurred."
+msgstr "出现一个错误。"
+
+#: fmain.sfailedtosavelog
+msgid "Failed to save the log:"
+msgstr "保存日志文件失败："
+
+#: fmain.sfilecancelled
+msgid "File cancelled"
+msgstr "已取消文件操作"
+
+#: fmain.sfilenotfound
+msgid "File not found"
+msgstr "文件未找到"
+
+#: fmain.shashcoppied
+msgid "copied"
+msgstr "已复制"
+
+#: fmain.shashesoffilesdontmatch
+msgid "Hashes of files do not match"
+msgstr "文件哈希值不匹配"
+
+#: fmain.slogfilesaved
+msgid "Log file saved"
+msgstr "日志文件已保存"
+
+#: fmain.sstatuscancelled
+msgid "Cancelled"
+msgstr "已取消"
+
+#: fmain.sstatuserror
+msgctxt "fmain.sstatuserror"
+msgid "Error"
+msgstr "错误"
+
+#: fmain.sstatusfinished
+msgid "Finished"
+msgstr "已完成"
+
+#: fmain.sstatuslogcleared
+msgid "Log cleared"
+msgstr "日志已清除"
+
+#: fmain.sstatusmessagescleared
+msgid "Messages cleared"
+msgstr "消息已清除"
+
+#: fmain.sstatusready
+msgid "Ready"
+msgstr "已准备好"
+
+#: fmain.sstatusworking
+msgid "Working..."
+msgstr "正在计算..."
+
+#: fmain.stexthashed
+msgid "Text hashed"
+msgstr "文本哈希完成"
+
+#: fmain.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "您是否想要购买专业版来去除功能限制？"
+
+#: fmain.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "您是否想要购买专业版来解锁此功能？"
+
+#: fmain.s_cannot_create_license_dir
+msgctxt "fmain.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "无法创建授权文件保存目录。"
+
+#: fmain.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"是否反注册当前产品？\n"
+"\n"
+"此操作将会移除您的授权信息并解除专业版功能。\n"
+
+#: fmain.s_contact_email
+msgctxt "fmain.s_contact_email"
+msgid "Contact email"
+msgstr "联系人邮箱"
+
+#: fmain.s_contact_name
+msgctxt "fmain.s_contact_name"
+msgid "Contact name"
+msgstr "联系人姓名"
+
+#: fmain.s_error_details
+msgctxt "fmain.s_error_details"
+msgid "Error"
+msgstr "错误"
+
+#: fmain.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "当前版本不包含此功能。"
+
+#: fmain.s_free_license_note
+msgctxt "fmain.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "此应用程序仅使用和分发在非商业用途。"
+
+#: fmain.s_issue_date
+msgctxt "fmain.s_issue_date"
+msgid "Issue date"
+msgstr "签发日期"
+
+#: fmain.s_license
+msgctxt "fmain.s_license"
+msgid "License"
+msgstr "授权"
+
+#: fmain.s_licensed_to
+msgctxt "fmain.s_licensed_to"
+msgid "Licensed to"
+msgstr "授权给"
+
+#: fmain.s_license_expiry
+msgctxt "fmain.s_license_expiry"
+msgid "License expiry"
+msgstr "授权有效期"
+
+#: fmain.s_license_has_expired
+msgctxt "fmain.s_license_has_expired"
+msgid "License has expired."
+msgstr "授权已到期。"
+
+#: fmain.s_license_load_failed
+msgctxt "fmain.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "载入授权文件失败。"
+
+#: fmain.s_license_remove_failed
+msgctxt "fmain.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "移除授权文件失败。"
+
+#: fmain.s_license_remove_ok
+msgctxt "fmain.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "授权文件已移除。"
+
+#: fmain.s_maxallowedfilesperrun
+msgid "This version is limited to a maximum of %s files per run."
+msgstr "当前版本最多允许每次计算 %s 个文件。 "
+
+#: fmain.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "（仅用于非商业使用）"
+
+#: fmain.s_number_of_computers
+msgctxt "fmain.s_number_of_computers"
+msgid "Number of computers"
+msgstr "计算机台数"
+
+#: fmain.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "如需了解更多信息，请阅读完整的授权信息"
+
+#: fmain.s_registration_error
+msgctxt "fmain.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "注册码无效。"
+
+#: fmain.s_registration_ok
+msgctxt "fmain.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "注册成功！"
+
+#: fmain.s_upgrade_expiry
+msgctxt "fmain.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "更新有效期"
+
+#: fsavelog.shashtypeauto
+msgid "Auto"
+msgstr "自动"
+
+#: tformabout.caption
+msgctxt "tformabout.caption"
+msgid "About"
+msgstr "关于"
+
+#: tformabout.label_author.caption
+msgid "den4b Team"
+msgstr ""
+
+#: tformabout.label_author2.caption
+msgid "Author:"
+msgstr "作者："
+
+#: tformabout.label_date.caption
+msgid "Date:"
+msgstr "访问日期："
+
+#: tformabout.label_email.caption
+msgid "support@den4b.com"
+msgstr ""
+
+#: tformabout.label_email2.caption
+msgid "Email:"
+msgstr "反馈邮箱："
+
+#: tformabout.label_title.caption
+msgctxt "tformabout.label_title.caption"
+msgid "Hasher"
+msgstr ""
+
+#: tformabout.label_version.caption
+msgid "Version:"
+msgstr "版本号："
+
+#: tformabout.label_website.caption
+msgid "www.den4b.com"
+msgstr ""
+
+#: tformabout.label_website2.caption
+msgid "Website:"
+msgstr "官网："
+
+#: tformcompare.caption
+msgid "Compare Hash"
+msgstr "哈希对比"
+
+#: tformcompare.cb_comparetoanyhash.caption
+msgid "Compare to any of the available hash types"
+msgstr "对比可用的哈希类型"
+
+#: tformcompare.label1.caption
+msgid "Your hash:"
+msgstr "您的哈希："
+
+#: tformcompare.label2.caption
+msgid "Comparing to:"
+msgstr "与以下对比："
+
+#: tformcompare.label_hashtype.caption
+msgctxt "TFORMCOMPARE.LABEL_HASHTYPE.CAPTION"
+msgid "..."
+msgstr ""
+
+#: tformcompare.label_pasted.caption
+msgctxt "tformcompare.label_pasted.caption"
+msgid "..."
+msgstr ""
+
+#: tformcomparefiles.caption
+msgid "Compare Files"
+msgstr "文件对比"
+
+#: tformcomparefiles.label1.caption
+msgid "Additional information:"
+msgstr "附加信息："
+
+#: tformcomparefiles.label_filea.caption
+msgid "File A:"
+msgstr "文件 A："
+
+#: tformcomparefiles.label_fileb.caption
+msgid "File B:"
+msgstr "文件 B："
+
+#: tformlogviewer.caption
+msgid "Log Viewer"
+msgstr "日志查看器"
+
+#: tformlogviewer.listview.columns[0].caption
+msgid "#"
+msgstr ""
+
+#: tformlogviewer.listview.columns[1].caption
+msgctxt "tformlogviewer.listview.columns[1].caption"
+msgid "File"
+msgstr "文件"
+
+#: tformlogviewer.listview.columns[2].caption
+msgid "Size"
+msgstr "大小"
+
+#: tformlogviewer.tb_copytoclipboard.caption
+msgctxt "tformlogviewer.tb_copytoclipboard.caption"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.actionabout.caption
+msgctxt "TFORMMAIN.ACTIONABOUT.CAPTION"
+msgid "About"
+msgstr "关于"
+
+#: tformmain.actionaddfiles.caption
+msgctxt "tformmain.actionaddfiles.caption"
+msgid "Add Files"
+msgstr "添加文件"
+
+#: tformmain.actionaddfiles.hint
+msgctxt "TFORMMAIN.ACTIONADDFILES.HINT"
+msgid "Add Files"
+msgstr "添加文件"
+
+#: tformmain.actionaddfolder.caption
+msgctxt "tformmain.actionaddfolder.caption"
+msgid "Add Folder"
+msgstr "添加文件夹"
+
+#: tformmain.actionaddfolder.hint
+msgctxt "TFORMMAIN.ACTIONADDFOLDER.HINT"
+msgid "Add Folder"
+msgstr "添加文件夹"
+
+#: tformmain.actioncancel.caption
+msgctxt "tformmain.actioncancel.caption"
+msgid "Cancel"
+msgstr "取消"
+
+#: tformmain.actioncancel.hint
+msgid "Cancel all files"
+msgstr "取消所有文件操作"
+
+#: tformmain.actionclearlog.caption
+msgid "Clear Log"
+msgstr "清除日志"
+
+#: tformmain.actionclearmessages.caption
+msgid "Clear Messages"
+msgstr "清除消息"
+
+#: tformmain.actioncomparenexttwofiles.caption
+msgid "Compare next two files (Hold CTRL)"
+msgstr "按住 Ctrl 对比两个文件"
+
+#: tformmain.actioncomparetonextfile.caption
+msgid "Compare to next file (Hold SHIFT)"
+msgstr "按住 Shift 与下一个文件对比"
+
+#: tformmain.actioncopymessages.caption
+msgid "Copy Messages"
+msgstr "复制消息"
+
+#: tformmain.actioncopyrights.caption
+msgid "Copyrights"
+msgstr "版权声明"
+
+#: tformmain.actionexit.caption
+msgid "Exit"
+msgstr "退出"
+
+#: tformmain.actionexporttoclipboard.caption
+msgid "Export file info to clipboard"
+msgstr "导出文件信息到剪贴板"
+
+#: tformmain.actionforum.caption
+msgid "Forum (online)"
+msgstr "在线论坛"
+
+#: tformmain.actionhelp.caption
+msgid "Help (online)"
+msgstr "在线帮助"
+
+#: tformmain.actionhistory.caption
+msgid "Version History"
+msgstr "更新日志"
+
+#: tformmain.actionlitevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "版本对比"
+
+#: tformmain.actionpurchase.caption
+msgid "Purchase (online)"
+msgstr "在线购买"
+
+#: tformmain.actionregister.caption
+msgctxt "tformmain.actionregister.caption"
+msgid "Register"
+msgstr "注册"
+
+#: tformmain.actionrehashfile.hint
+msgid "Rehash current file"
+msgstr "重新哈希当前文件"
+
+#: tformmain.actionsavelog.caption
+msgctxt "TFORMMAIN.ACTIONSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "保存日志"
+
+#: tformmain.actionselectall.caption
+msgid "Select All"
+msgstr "全选"
+
+#: tformmain.actionselectnone.caption
+msgid "Select None"
+msgstr "取消全选"
+
+#: tformmain.actionsettings.caption
+msgctxt "tformmain.actionsettings.caption"
+msgid "Settings"
+msgstr "设置"
+
+#: tformmain.actionskip.caption
+msgid "Skip"
+msgstr "跳过"
+
+#: tformmain.actionskip.hint
+msgid "Skip current file"
+msgstr "跳过当前文件"
+
+#: tformmain.actiontexthash.caption
+msgctxt "tformmain.actiontexthash.caption"
+msgid "Hash Text"
+msgstr "文本哈希"
+
+#: tformmain.actiontexthash.hint
+msgctxt "TFORMMAIN.ACTIONTEXTHASH.HINT"
+msgid "Hash Text"
+msgstr "文本哈希"
+
+#: tformmain.actiontogglemessages.caption
+msgctxt "tformmain.actiontogglemessages.caption"
+msgid "Toggle Messages"
+msgstr "显示消息栏"
+
+#: tformmain.actiontogglemessages.hint
+msgctxt "TFORMMAIN.ACTIONTOGGLEMESSAGES.HINT"
+msgid "Toggle Messages"
+msgstr "显示消息栏"
+
+#: tformmain.actionunregister.caption
+msgid "Unregister"
+msgstr "取消注册"
+
+#: tformmain.actionviewlog.caption
+msgctxt "tformmain.actionviewlog.caption"
+msgid "View Log"
+msgstr "查看日志"
+
+#: tformmain.actionviewlog.hint
+msgctxt "TFORMMAIN.ACTIONVIEWLOG.HINT"
+msgid "View Log"
+msgstr "查看日志"
+
+#: tformmain.caption
+msgctxt "TFORMMAIN.CAPTION"
+msgid "Hasher"
+msgstr ""
+
+#: tformmain.checkboxcrc32.caption
+msgid "CRC32"
+msgstr ""
+
+#: tformmain.checkboxed2k.caption
+msgid "ED2K"
+msgstr ""
+
+#: tformmain.checkboxmd2.caption
+msgid "MD2"
+msgstr ""
+
+#: tformmain.checkboxmd4.caption
+msgid "MD4"
+msgstr ""
+
+#: tformmain.checkboxmd5.caption
+msgid "MD5"
+msgstr ""
+
+#: tformmain.checkboxrmd128.caption
+msgid "RMD128"
+msgstr ""
+
+#: tformmain.checkboxrmd160.caption
+msgid "RMD160"
+msgstr ""
+
+#: tformmain.checkboxsha1.caption
+msgid "SHA1"
+msgstr ""
+
+#: tformmain.checkboxsha256.caption
+msgid "SHA256"
+msgstr ""
+
+#: tformmain.checkboxsha512.caption
+msgid "SHA512"
+msgstr ""
+
+#: tformmain.labelattributes.caption
+msgid "Attributes:"
+msgstr "属性："
+
+#: tformmain.labelfilesize.caption
+msgid "File size:"
+msgstr "文件大小："
+
+#: tformmain.labelfiletimecreated.caption
+msgid "Created:"
+msgstr "创建日期："
+
+#: tformmain.labelfiletimemodified.caption
+msgid "Modified:"
+msgstr "修改日期："
+
+#: tformmain.menuitem1.caption
+msgctxt "TFORMMAIN.MENUITEM1.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem20.caption
+msgctxt "TFORMMAIN.MENUITEM20.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem21.caption
+msgctxt "TFORMMAIN.MENUITEM21.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem23.caption
+msgctxt "TFORMMAIN.MENUITEM23.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem24.caption
+msgctxt "TFORMMAIN.MENUITEM24.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem3.caption
+msgctxt "tformmain.menuitem3.caption"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem31.caption
+msgctxt "TFORMMAIN.MENUITEM31.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem33.caption
+msgctxt "TFORMMAIN.MENUITEM33.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem4.caption
+msgctxt "TFORMMAIN.MENUITEM4.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem8.caption
+msgctxt "TFORMMAIN.MENUITEM8.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.mi_filemenu.caption
+msgctxt "TFORMMAIN.MI_FILEMENU.CAPTION"
+msgid "File"
+msgstr "文件"
+
+#: tformmain.mi_helpmenu.caption
+msgid "Help"
+msgstr "帮助"
+
+#: tformmain.mi_language.caption
+msgid "Language"
+msgstr "语言"
+
+#: tformmain.mi_logmenu.caption
+msgid "Log"
+msgstr "日志"
+
+#: tformmain.mi_optionsmenu.caption
+msgid "Options"
+msgstr "选项"
+
+#: tformmain.opendialog.title
+msgid "Add files"
+msgstr "添加文件"
+
+#: tformmain.panel_draganddrop.caption
+msgid "Drag and drop your files and folders"
+msgstr "拖拽文件或文件夹到此处以计算哈希"
+
+#: tformmain.panel_holdcontrol.caption
+msgid "Hold SHIFT to compare to next or CTRL to compare two files"
+msgstr "按住 Shift 与下一个文件对比或按住 Ctrl 对比两个文件"
+
+#: tformmain.sb_comparecrc32.hint
+msgctxt "tformmain.sb_comparecrc32.hint"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_compareed2k.hint
+msgctxt "TFORMMAIN.SB_COMPAREED2K.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparemd2.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD2.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparemd4.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD4.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparemd5.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD5.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparermd128.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD128.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparermd160.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD160.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparesha1.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA1.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparesha256.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA256.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_comparesha512.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA512.HINT"
+msgid "Compare hash"
+msgstr "哈希对比"
+
+#: tformmain.sb_copycrc32.hint
+msgctxt "TFORMMAIN.SB_COPYCRC32.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copyed2k.hint
+msgctxt "TFORMMAIN.SB_COPYED2K.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copymd2.hint
+msgctxt "TFORMMAIN.SB_COPYMD2.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copymd4.hint
+msgctxt "TFORMMAIN.SB_COPYMD4.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copymd5.hint
+msgctxt "TFORMMAIN.SB_COPYMD5.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copyrmd128.hint
+msgctxt "TFORMMAIN.SB_COPYRMD128.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copyrmd160.hint
+msgctxt "TFORMMAIN.SB_COPYRMD160.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copysha1.hint
+msgctxt "TFORMMAIN.SB_COPYSHA1.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copysha256.hint
+msgctxt "TFORMMAIN.SB_COPYSHA256.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.sb_copysha512.hint
+msgctxt "TFORMMAIN.SB_COPYSHA512.HINT"
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+#: tformmain.selectdirectorydialog.title
+msgid "Add folders"
+msgstr "添加文件夹"
+
+#: tformmain.tb_savelog.hint
+msgctxt "tformmain.tb_savelog.hint"
+msgid "Save Log"
+msgstr "保存日志"
+
+#: tformregister.bb_cancel.caption
+msgctxt "TFORMREGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "取消"
+
+#: tformregister.bb_register.caption
+msgctxt "TFORMREGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "注册"
+
+#: tformregister.caption
+msgid "Registration"
+msgstr "注册"
+
+#: tformregister.label_entercode.caption
+msgid "Please enter your registration code:"
+msgstr "请输入注册码："
+
+#: tformsavelog.bitbtn_cancel.caption
+msgctxt "TFORMSAVELOG.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "取消"
+
+#: tformsavelog.bitbtn_save.caption
+msgctxt "tformsavelog.bitbtn_save.caption"
+msgid "Save"
+msgstr "保存"
+
+#: tformsavelog.caption
+msgctxt "TFORMSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "保存日志"
+
+#: tformsavelog.label_fileformat.caption
+msgid "File format:"
+msgstr "文件格式："
+
+#: tformsavelog.label_hashtype.caption
+msgid "Hash type:"
+msgstr "哈希类型："
+
+#: tformsavelog.label_targetpath.caption
+msgid "Target file path:"
+msgstr "目标文件路径："
+
+#: tformsavelog.radiobutton_usefilenameonly.caption
+msgid "Use file names only"
+msgstr "仅使用文件名"
+
+#: tformsavelog.radiobutton_usefilepath.caption
+msgid "Use file paths"
+msgstr "使用文件路径"
+
+#: tformsettings.bb_cancel.caption
+msgctxt "TFORMSETTINGS.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "取消"
+
+#: tformsettings.bb_save.caption
+msgctxt "TFORMSETTINGS.BB_SAVE.CAPTION"
+msgid "Save"
+msgstr "保存"
+
+#: tformsettings.caption
+msgctxt "TFORMSETTINGS.CAPTION"
+msgid "Settings"
+msgstr "设置"
+
+#: tformsettings.cb_includeheaderinlogviewerexport.caption
+msgid "Include header in the log viewer export"
+msgstr ""
+
+#: tformsettings.cb_rememberlocationlogviewer.caption
+msgid "Remember location of the log viewer"
+msgstr "记忆日志查看器位置"
+
+#: tformsettings.cb_rememberlocationmainwindow.caption
+msgid "Remember location of the main window"
+msgstr "记忆主窗口位置"
+
+#: tformsettings.cb_showtoolbarcaptions.caption
+msgid "Show captions of buttons in the toolbar"
+msgstr "显示工具栏按钮标题"
+
+#: tformsettings.cb_stayontop.caption
+msgid "Stay on top of other windows"
+msgstr "保持窗口置顶"
+
+#: tformsettings.cb_uppercasehash.caption
+msgid "Use upper case hashes"
+msgstr "哈希值使用大写字母"
+
+#: tformtermsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "接受"
+
+#: tformtermsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "版本对比"
+
+#: tformtermsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "购买"
+
+#: tformtermsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "输入注册码"
+
+#: tformtermsofuse.caption
+msgid "Terms of Use"
+msgstr "使用须知"
+
+#: tformtermsofuse.groupbox1.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "请注意该应用程序的以下条款："
+
+#: tformtermsofuse.label_commercial.caption
+msgid "For commercial use you must purchase a commercial license or a \"Pro\" version. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "您必须前往官网去购买商业授权以便商业用途。如果您已购买一个授权，请输入注册码激活。感谢您的购买。"
+
+#: tformtermsofuse.label_noncommercial.caption
+msgctxt "TFORMTERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "此应用程序仅使用和分发在非商业用途。"
+
+#: tformtermsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "您可以通过购买专业版来支持我们的开发工作。"
+
+#: tformtext.bitbtnhash.caption
+msgctxt "TFORMTEXT.BITBTNHASH.CAPTION"
+msgid "Hash Text"
+msgstr "文本哈希"
+
+#: tformtext.caption
+msgctxt "TFORMTEXT.CAPTION"
+msgid "Hash Text"
+msgstr "文本哈希"
+
+#: tformtext.groupboxencoding.caption
+msgid "Encoding:"
+msgstr "编码："
+
+#: tformtext.rb_encodingansi.caption
+msgid "ANSI"
+msgstr "ANSI"
+
+#: tformtext.rb_encodingunicode.caption
+msgid "Unicode"
+msgstr "Unicode"
+
+#: tformtext.rb_encodingutf8.caption
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: ufunctions.sshellopenfileerror
+msgid "Could not open the following path:"
+msgstr "无法打开以下路径："
+
+#: ufunctions.ssizebytes
+msgid "B"
+msgstr "B"
+
+#: ufunctions.ssizegb
+msgid "GB"
+msgstr "GB"
+
+#: ufunctions.ssizeinbytes
+msgid "%s bytes"
+msgstr ""
+
+#: ufunctions.ssizekb
+msgid "KB"
+msgstr "KB"
+
+#: ufunctions.ssizemb
+msgid "MB"
+msgstr "MB"
+
+#: ufunctions.sspeedpersecbytes
+msgid "B/s"
+msgstr "B/s"
+
+#: ufunctions.sspeedpersecgb
+msgid "GB/s"
+msgstr "GB/s"
+
+#: ufunctions.sspeedperseckb
+msgid "KB/s"
+msgstr "KB/s"
+
+#: ufunctions.sspeedpersecmb
+msgid "MB/s"
+msgstr "MB/s"
+
+#: uhasher.sed2knodigestblocks
+msgid "ED2K digest blocks are not available"
+msgstr "ED2K 数据块不可用"
+
+#: uhasher.sed2kovertheblocksize
+msgid "ED2K went over the block size"
+msgstr "ED2K 超出块大小"
+
+#: uhasher.sfailedtoreadfileproperties
+msgid "Failed to read file properties"
+msgstr "读取文件属性失败"
+
+#: uhasher.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "错误的数字大小 %s"
+
+#: uhasher.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "无效的数据或缓冲区大小"
+
+#: uhasher.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "不支持的哈希类型： %s"
+
+#: uhashertests.sselftestfailed
+msgid "Failed %d out of %d self tests."
+msgstr "%d 个自校验失败，共 %d 个文件。"
+
+#: uhashertests.sselftestpassed
+msgid "Passed all %d self tests."
+msgstr "已通过全部 %d 个自校验。"
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "无法创建授权文件保存目录。"
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "联系人邮箱"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "联系人姓名"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "删除文件失败："
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "载入授权数据失败："
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "保存授权数据失败："
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "签发日期"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "授权"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "授权给"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "当前授权已被列入黑名单。"
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "授权有效期"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "授权已到期。"
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "授权无效！"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "载入授权文件失败。"
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "您需要更新授权以激活本产品。"
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "移除授权文件失败。"
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "授权文件已移除。"
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "您的授权已超出升级期限。"
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "计算机台数"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "注册码无效。"
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "未找到注册文件。"
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "读取注册文件失败。"
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "注册成功！"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "更新有效期"
+
+#: uthreads.sthreadqueuesnotassigned
+msgid "Thread queues are not assigned"
+msgstr "线程队列未分配"
+
+#: uverificationfile.snotsupportedverificationformat
+msgid "Not supported verification format (%d)"
+msgstr "不支持的验证文件格式 (%d)"
+
+#: uverificationfile.sverifyformatsfv
+msgid "Simple file verification (SFV)"
+msgstr "简化校验文件 (SFV)"
+
+#: uverificationfile.sverifyformatsum
+msgid "Sum file (MD5SUM, SHA1SUM, etc)"
+msgstr "校验和文件 (MD5SUM, SHA1SUM, etc)"
+

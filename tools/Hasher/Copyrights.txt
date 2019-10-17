@@ -1,0 +1,8 @@
+This software makes use of the following 3rd party components:
+
+
+Farm-Fresh Web Icons
+~~~~~~~~~~~~~~~~~~~~
+Icons from "Farm-Fresh Web Icons" collection.
+Licensed under a Creative Commons Attribution 3.0.
+http://www.fatcow.com/free-icons

@@ -1,0 +1,1086 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Hasher\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tilt <tiltstr@gmail.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Country: jp\n"
+"X-Country-Name: Japan\n"
+"X-Language-Name: Japanese\n"
+"X-Language-Name-Native: 日本語\n"
+"X-Translators: Tilt <tiltstr@gmail.com>\n"
+"X-Generator: Poedit 1.8.1\n"
+
+#: fcompare.sautopastedfromclipboard
+msgid "Auto pasted from clipboard"
+msgstr "クリップボードから自動貼り付け"
+
+#: fcomparefiles.smatchinghashes
+msgid "Matching:"
+msgstr "一致:"
+
+#: fcomparefiles.snotmatchinghashes
+msgid "Not matching:"
+msgstr "不一致:"
+
+#: fcomparefiles.snummatchedhashes
+msgid "Result: %d out of %d available hashes matched."
+msgstr "結果: %d 個が一致 / %d 種の形式で比較"
+
+#: fmain.serroroccurred
+msgid "An error has occurred."
+msgstr "エラーが発生しました."
+
+#: fmain.sfailedtosavelog
+msgid "Failed to save the log:"
+msgstr "ログの保存に失敗:"
+
+#: fmain.sfilecancelled
+msgid "File cancelled"
+msgstr "ファイルをキャンセル"
+
+#: fmain.sfilenotfound
+msgid "File not found"
+msgstr "ファイルが見つかりません"
+
+#: fmain.shashcoppied
+msgid "copied"
+msgstr "コピー"
+
+#: fmain.shashesoffilesdontmatch
+msgid "Hashes of files do not match"
+msgstr "ファイルのハッシュが異なります"
+
+#: fmain.slogfilesaved
+msgid "Log file saved"
+msgstr "ログファイルを保存"
+
+#: fmain.sstatuscancelled
+msgid "Cancelled"
+msgstr "キャンセル"
+
+#: fmain.sstatuserror
+msgctxt "fmain.sstatuserror"
+msgid "Error"
+msgstr "エラー"
+
+#: fmain.sstatusfinished
+msgid "Finished"
+msgstr "完了"
+
+#: fmain.sstatuslogcleared
+msgid "Log cleared"
+msgstr "ログをクリア"
+
+#: fmain.sstatusmessagescleared
+msgid "Messages cleared"
+msgstr "メッセージをクリア"
+
+#: fmain.sstatusready
+msgid "Ready"
+msgstr "レディ"
+
+#: fmain.sstatusworking
+msgid "Working..."
+msgstr "処理中..."
+
+#: fmain.stexthashed
+msgid "Text hashed"
+msgstr "テキスト ハッシュ"
+
+#: fmain.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "\"Pro\" バージョンを購入して制限を解除しますか?"
+
+#: fmain.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "\"Pro\" バージョンを購入して機能のロックを解除しますか?"
+
+#: fmain.s_cannot_create_license_dir
+msgctxt "fmain.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "ライセンスファイル用のディレクトリが作成できません。"
+
+#: fmain.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"本当にこの製品の登録を除去しますか?\n"
+"\n"
+"操作を続行した場合、あなたのライセンスは除去され \"Pro\" バージョンではなくなります。\n"
+
+#: fmain.s_contact_email
+msgctxt "fmain.s_contact_email"
+msgid "Contact email"
+msgstr "連絡先E-メール"
+
+#: fmain.s_contact_name
+msgctxt "fmain.s_contact_name"
+msgid "Contact name"
+msgstr "連絡先名"
+
+#: fmain.s_error_details
+msgctxt "fmain.s_error_details"
+msgid "Error"
+msgstr "エラー"
+
+#: fmain.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "この機能は現行バージョンでは利用できません."
+
+#: fmain.s_free_license_note
+msgctxt "fmain.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "このアプリケーションは非営利目的での使用、もしくはそれに属する適切な利用に限り使用、再配布を許可されています。"
+
+#: fmain.s_issue_date
+msgctxt "fmain.s_issue_date"
+msgid "Issue date"
+msgstr "発行日"
+
+#: fmain.s_license
+msgctxt "fmain.s_license"
+msgid "License"
+msgstr "ライセンス"
+
+#: fmain.s_licensed_to
+msgctxt "fmain.s_licensed_to"
+msgid "Licensed to"
+msgstr "ライセンス"
+
+#: fmain.s_license_expiry
+msgctxt "fmain.s_license_expiry"
+msgid "License expiry"
+msgstr "ライセンスの有効期限"
+
+#: fmain.s_license_has_expired
+msgctxt "fmain.s_license_has_expired"
+msgid "License has expired."
+msgstr "ライセンスの期限切れ"
+
+#: fmain.s_license_load_failed
+msgctxt "fmain.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "ライセンスの読み込みに失敗."
+
+#: fmain.s_license_remove_failed
+msgctxt "fmain.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "ライセンスの除去に失敗."
+
+#: fmain.s_license_remove_ok
+msgctxt "fmain.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "ライセンスは除去されました"
+
+#: fmain.s_maxallowedfilesperrun
+msgid "This version is limited to a maximum of %s files per run."
+msgstr "このバージョンでは一回の起動に付き %s ファイル迄の機能制限があります。"
+
+#: fmain.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "（非商用利用のみ）"
+
+#: fmain.s_number_of_computers
+msgctxt "fmain.s_number_of_computers"
+msgid "Number of computers"
+msgstr "コンピュータの数"
+
+#: fmain.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "更に詳細な情報については、ライセンスコードをお読みください"
+
+#: fmain.s_registration_error
+msgctxt "fmain.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "無効な登録コードです"
+
+#: fmain.s_registration_ok
+msgctxt "fmain.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "登録が正常に完了しました!"
+
+#: fmain.s_upgrade_expiry
+msgctxt "fmain.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "アップグレードの有効期限"
+
+#: fsavelog.shashtypeauto
+msgid "Auto"
+msgstr "自動"
+
+#: tformabout.caption
+msgctxt "tformabout.caption"
+msgid "About"
+msgstr "バージョン情報"
+
+#: tformabout.label_author.caption
+msgid "den4b Team"
+msgstr ""
+
+#: tformabout.label_author2.caption
+msgid "Author:"
+msgstr "作者:"
+
+#: tformabout.label_date.caption
+msgid "Date:"
+msgstr "公開日:"
+
+#: tformabout.label_email.caption
+msgid "support@den4b.com"
+msgstr ""
+
+#: tformabout.label_email2.caption
+msgid "Email:"
+msgstr "E-メール:"
+
+#: tformabout.label_title.caption
+msgctxt "tformabout.label_title.caption"
+msgid "Hasher"
+msgstr ""
+
+#: tformabout.label_version.caption
+msgid "Version:"
+msgstr "バージョン:"
+
+#: tformabout.label_website.caption
+msgid "www.den4b.com"
+msgstr ""
+
+#: tformabout.label_website2.caption
+msgid "Website:"
+msgstr "ウェブサイト:"
+
+#: tformcompare.caption
+msgid "Compare Hash"
+msgstr "ハッシュ比較"
+
+#: tformcompare.cb_comparetoanyhash.caption
+msgid "Compare to any of the available hash types"
+msgstr "利用可能なハッシュ形式のいすれかで比較"
+
+#: tformcompare.label1.caption
+msgid "Your hash:"
+msgstr "比較元ハッシュ値:"
+
+#: tformcompare.label2.caption
+msgid "Comparing to:"
+msgstr "比較対象:"
+
+#: tformcompare.label_hashtype.caption
+msgctxt "TFORMCOMPARE.LABEL_HASHTYPE.CAPTION"
+msgid "..."
+msgstr ""
+
+#: tformcompare.label_pasted.caption
+msgctxt "tformcompare.label_pasted.caption"
+msgid "..."
+msgstr ""
+
+#: tformcomparefiles.caption
+msgid "Compare Files"
+msgstr "ファイル比較"
+
+#: tformcomparefiles.label1.caption
+msgid "Additional information:"
+msgstr "追加情報："
+
+#: tformcomparefiles.label_filea.caption
+msgid "File A:"
+msgstr "ファイル A:"
+
+#: tformcomparefiles.label_fileb.caption
+msgid "File B:"
+msgstr "ファイル B:"
+
+#: tformlogviewer.caption
+msgid "Log Viewer"
+msgstr "ログ参照"
+
+#: tformlogviewer.listview.columns[0].caption
+msgid "#"
+msgstr ""
+
+#: tformlogviewer.listview.columns[1].caption
+msgctxt "tformlogviewer.listview.columns[1].caption"
+msgid "File"
+msgstr "ファイル"
+
+#: tformlogviewer.listview.columns[2].caption
+msgid "Size"
+msgstr "サイズ"
+
+#: tformlogviewer.tb_copytoclipboard.caption
+msgctxt "tformlogviewer.tb_copytoclipboard.caption"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.actionabout.caption
+msgctxt "TFORMMAIN.ACTIONABOUT.CAPTION"
+msgid "About"
+msgstr "バージョン情報"
+
+#: tformmain.actionaddfiles.caption
+msgctxt "tformmain.actionaddfiles.caption"
+msgid "Add Files"
+msgstr "ファイルを追加"
+
+#: tformmain.actionaddfiles.hint
+msgctxt "TFORMMAIN.ACTIONADDFILES.HINT"
+msgid "Add Files"
+msgstr "ファイルを追加"
+
+#: tformmain.actionaddfolder.caption
+msgctxt "tformmain.actionaddfolder.caption"
+msgid "Add Folder"
+msgstr "フォルダを追加"
+
+#: tformmain.actionaddfolder.hint
+msgctxt "TFORMMAIN.ACTIONADDFOLDER.HINT"
+msgid "Add Folder"
+msgstr "フォルダを追加"
+
+#: tformmain.actioncancel.caption
+msgctxt "tformmain.actioncancel.caption"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tformmain.actioncancel.hint
+msgid "Cancel all files"
+msgstr "すべてのファイルをキャンセル"
+
+#: tformmain.actionclearlog.caption
+msgid "Clear Log"
+msgstr "ログをクリア"
+
+#: tformmain.actionclearmessages.caption
+msgid "Clear Messages"
+msgstr "メッセージをクリア"
+
+#: tformmain.actioncomparenexttwofiles.caption
+msgid "Compare next two files (Hold CTRL)"
+msgstr "次の 2 つのファイルを比較 (+ Ctrl)"
+
+#: tformmain.actioncomparetonextfile.caption
+msgid "Compare to next file (Hold SHIFT)"
+msgstr "次のファイルと比較 (+Shift)"
+
+#: tformmain.actioncopymessages.caption
+msgid "Copy Messages"
+msgstr "メッセージをコピー"
+
+#: tformmain.actioncopyrights.caption
+msgid "Copyrights"
+msgstr "著作権"
+
+#: tformmain.actionexit.caption
+msgid "Exit"
+msgstr "終了"
+
+#: tformmain.actionexporttoclipboard.caption
+msgid "Export file info to clipboard"
+msgstr "ファイル情報をクリップボードにコピー"
+
+#: tformmain.actionforum.caption
+msgid "Forum (online)"
+msgstr "フォーラム"
+
+#: tformmain.actionhelp.caption
+msgid "Help (online)"
+msgstr "オンライン ヘルプ"
+
+#: tformmain.actionhistory.caption
+msgid "Version History"
+msgstr "更新履歴"
+
+#: tformmain.actionlitevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite と Pro の違い"
+
+#: tformmain.actionpurchase.caption
+msgid "Purchase (online)"
+msgstr "購入"
+
+#: tformmain.actionregister.caption
+msgctxt "tformmain.actionregister.caption"
+msgid "Register"
+msgstr "登録"
+
+#: tformmain.actionrehashfile.hint
+msgid "Rehash current file"
+msgstr "現在のファイルを再検証"
+
+#: tformmain.actionsavelog.caption
+msgctxt "TFORMMAIN.ACTIONSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "ログを保存"
+
+#: tformmain.actionselectall.caption
+msgid "Select All"
+msgstr "すべて選択"
+
+#: tformmain.actionselectnone.caption
+msgid "Select None"
+msgstr "選択解除"
+
+#: tformmain.actionsettings.caption
+msgctxt "tformmain.actionsettings.caption"
+msgid "Settings"
+msgstr "設定"
+
+#: tformmain.actionskip.caption
+msgid "Skip"
+msgstr "スキップ"
+
+#: tformmain.actionskip.hint
+msgid "Skip current file"
+msgstr "現在のファイルをスキップ"
+
+#: tformmain.actiontexthash.caption
+msgctxt "tformmain.actiontexthash.caption"
+msgid "Hash Text"
+msgstr "ハッシュ テキスト"
+
+#: tformmain.actiontexthash.hint
+msgctxt "TFORMMAIN.ACTIONTEXTHASH.HINT"
+msgid "Hash Text"
+msgstr "ハッシュ テキスト"
+
+#: tformmain.actiontogglemessages.caption
+msgctxt "tformmain.actiontogglemessages.caption"
+msgid "Toggle Messages"
+msgstr "メッセージの表示切替"
+
+#: tformmain.actiontogglemessages.hint
+msgctxt "TFORMMAIN.ACTIONTOGGLEMESSAGES.HINT"
+msgid "Toggle Messages"
+msgstr "メッセージの表示切替"
+
+#: tformmain.actionunregister.caption
+msgid "Unregister"
+msgstr "登録解除"
+
+#: tformmain.actionviewlog.caption
+msgctxt "tformmain.actionviewlog.caption"
+msgid "View Log"
+msgstr "ログを表示"
+
+#: tformmain.actionviewlog.hint
+msgctxt "TFORMMAIN.ACTIONVIEWLOG.HINT"
+msgid "View Log"
+msgstr "ログを表示"
+
+#: tformmain.caption
+msgctxt "TFORMMAIN.CAPTION"
+msgid "Hasher"
+msgstr ""
+
+#: tformmain.checkboxcrc32.caption
+msgid "CRC32"
+msgstr "CRC32"
+
+#: tformmain.checkboxed2k.caption
+msgid "ED2K"
+msgstr "ED2K"
+
+#: tformmain.checkboxmd2.caption
+msgid "MD2"
+msgstr "MD2"
+
+#: tformmain.checkboxmd4.caption
+msgid "MD4"
+msgstr "MD4"
+
+#: tformmain.checkboxmd5.caption
+msgid "MD5"
+msgstr "MD5"
+
+#: tformmain.checkboxrmd128.caption
+msgid "RMD128"
+msgstr "RMD128"
+
+#: tformmain.checkboxrmd160.caption
+msgid "RMD160"
+msgstr "RMD160"
+
+#: tformmain.checkboxsha1.caption
+msgid "SHA1"
+msgstr "SHA1"
+
+#: tformmain.checkboxsha256.caption
+msgid "SHA256"
+msgstr "SHA256"
+
+#: tformmain.checkboxsha512.caption
+msgid "SHA512"
+msgstr "SHA512"
+
+#: tformmain.labelattributes.caption
+msgid "Attributes:"
+msgstr "ファイル属性:"
+
+#: tformmain.labelfilesize.caption
+msgid "File size:"
+msgstr "ファイルサイズ:"
+
+#: tformmain.labelfiletimecreated.caption
+msgid "Created:"
+msgstr "作成日時:"
+
+#: tformmain.labelfiletimemodified.caption
+msgid "Modified:"
+msgstr "更新日時:"
+
+#: tformmain.menuitem1.caption
+msgctxt "TFORMMAIN.MENUITEM1.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem20.caption
+msgctxt "TFORMMAIN.MENUITEM20.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem21.caption
+msgctxt "TFORMMAIN.MENUITEM21.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem23.caption
+msgctxt "TFORMMAIN.MENUITEM23.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem24.caption
+msgctxt "TFORMMAIN.MENUITEM24.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem3.caption
+msgctxt "tformmain.menuitem3.caption"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem31.caption
+msgctxt "TFORMMAIN.MENUITEM31.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem33.caption
+msgctxt "TFORMMAIN.MENUITEM33.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem4.caption
+msgctxt "TFORMMAIN.MENUITEM4.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem8.caption
+msgctxt "TFORMMAIN.MENUITEM8.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.mi_filemenu.caption
+msgctxt "TFORMMAIN.MI_FILEMENU.CAPTION"
+msgid "File"
+msgstr "ファイル"
+
+#: tformmain.mi_helpmenu.caption
+msgid "Help"
+msgstr "ヘルプ"
+
+#: tformmain.mi_language.caption
+msgid "Language"
+msgstr "言語"
+
+#: tformmain.mi_logmenu.caption
+msgid "Log"
+msgstr "ログ"
+
+#: tformmain.mi_optionsmenu.caption
+msgid "Options"
+msgstr "設定"
+
+#: tformmain.opendialog.title
+msgid "Add files"
+msgstr "ファイルを追加"
+
+#: tformmain.panel_draganddrop.caption
+msgid "Drag and drop your files and folders"
+msgstr "ファイルまたはフォルダをドラッグ ドロップ"
+
+#: tformmain.panel_holdcontrol.caption
+msgid "Hold SHIFT to compare to next or CTRL to compare two files"
+msgstr "[Shift] -> 次のファイルを比較 :: [Ctrl] -> 次の 2 つのファイルを比較"
+
+#: tformmain.sb_comparecrc32.hint
+msgctxt "tformmain.sb_comparecrc32.hint"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_compareed2k.hint
+msgctxt "TFORMMAIN.SB_COMPAREED2K.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparemd2.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD2.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparemd4.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD4.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparemd5.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD5.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparermd128.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD128.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparermd160.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD160.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparesha1.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA1.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparesha256.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA256.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_comparesha512.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA512.HINT"
+msgid "Compare hash"
+msgstr "ハッシュを比較"
+
+#: tformmain.sb_copycrc32.hint
+msgctxt "TFORMMAIN.SB_COPYCRC32.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copyed2k.hint
+msgctxt "TFORMMAIN.SB_COPYED2K.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copymd2.hint
+msgctxt "TFORMMAIN.SB_COPYMD2.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copymd4.hint
+msgctxt "TFORMMAIN.SB_COPYMD4.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copymd5.hint
+msgctxt "TFORMMAIN.SB_COPYMD5.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copyrmd128.hint
+msgctxt "TFORMMAIN.SB_COPYRMD128.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copyrmd160.hint
+msgctxt "TFORMMAIN.SB_COPYRMD160.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copysha1.hint
+msgctxt "TFORMMAIN.SB_COPYSHA1.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copysha256.hint
+msgctxt "TFORMMAIN.SB_COPYSHA256.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.sb_copysha512.hint
+msgctxt "TFORMMAIN.SB_COPYSHA512.HINT"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: tformmain.selectdirectorydialog.title
+msgid "Add folders"
+msgstr "フォルダを追加"
+
+#: tformmain.tb_savelog.hint
+msgctxt "tformmain.tb_savelog.hint"
+msgid "Save Log"
+msgstr "ログを保存"
+
+#: tformregister.bb_cancel.caption
+msgctxt "TFORMREGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tformregister.bb_register.caption
+msgctxt "TFORMREGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "登録"
+
+#: tformregister.caption
+msgid "Registration"
+msgstr "登録"
+
+#: tformregister.label_entercode.caption
+msgid "Please enter your registration code:"
+msgstr "あなたの登録コードを入力:"
+
+#: tformsavelog.bitbtn_cancel.caption
+msgctxt "TFORMSAVELOG.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tformsavelog.bitbtn_save.caption
+msgctxt "tformsavelog.bitbtn_save.caption"
+msgid "Save"
+msgstr "保存"
+
+#: tformsavelog.caption
+msgctxt "TFORMSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "ログを保存"
+
+#: tformsavelog.label_fileformat.caption
+msgid "File format:"
+msgstr "ファイル書式:"
+
+#: tformsavelog.label_hashtype.caption
+msgid "Hash type:"
+msgstr "ハッシュ形式:"
+
+#: tformsavelog.label_targetpath.caption
+msgid "Target file path:"
+msgstr "ログファイル保存先:"
+
+#: tformsavelog.radiobutton_usefilenameonly.caption
+msgid "Use file names only"
+msgstr "ファイル名のみ付加"
+
+#: tformsavelog.radiobutton_usefilepath.caption
+msgid "Use file paths"
+msgstr "ファイルパスを付加"
+
+#: tformsettings.bb_cancel.caption
+msgctxt "TFORMSETTINGS.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tformsettings.bb_save.caption
+msgctxt "TFORMSETTINGS.BB_SAVE.CAPTION"
+msgid "Save"
+msgstr "保存"
+
+#: tformsettings.caption
+msgctxt "TFORMSETTINGS.CAPTION"
+msgid "Settings"
+msgstr "設定"
+
+#: tformsettings.cb_includeheaderinlogviewerexport.caption
+msgid "Include header in the log viewer export"
+msgstr ""
+
+#: tformsettings.cb_rememberlocationlogviewer.caption
+msgid "Remember location of the log viewer"
+msgstr "ログビューワの位置を保持"
+
+#: tformsettings.cb_rememberlocationmainwindow.caption
+msgid "Remember location of the main window"
+msgstr "メイン画面の位置を保持"
+
+#: tformsettings.cb_showtoolbarcaptions.caption
+msgid "Show captions of buttons in the toolbar"
+msgstr "ツールバーボタンに文字を表示"
+
+#: tformsettings.cb_stayontop.caption
+msgid "Stay on top of other windows"
+msgstr "ウィンドウを最前面で表示"
+
+#: tformsettings.cb_uppercasehash.caption
+msgid "Use upper case hashes"
+msgstr "大文字を使用する"
+
+#: tformtermsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "承認しました"
+
+#: tformtermsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite と Pro の違い"
+
+#: tformtermsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "購入"
+
+#: tformtermsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "登録コードを入力"
+
+#: tformtermsofuse.caption
+msgid "Terms of Use"
+msgstr "利用規約"
+
+#: tformtermsofuse.groupbox1.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "このアプリケーション使用に関する条件:"
+
+#: tformtermsofuse.label_commercial.caption
+msgid "For commercial use you must purchase a commercial license or a \"Pro\" version. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "商用目的で利用される場合は、ウェブサイトに訪問して、利用目的に沿ったライセンスを取得する必要があります。"
+
+#: tformtermsofuse.label_noncommercial.caption
+msgctxt "TFORMTERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "このアプリケーションは非営利目的での使用、もしくはそれに属する適切な利用に限り使用、再配布を許可されています。"
+
+#: tformtermsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "このアプリケーションの開発を、今後も継続していくための支援として 是非 \"Pro\" バージョンの購入もご考慮ください。"
+
+#: tformtext.bitbtnhash.caption
+msgctxt "TFORMTEXT.BITBTNHASH.CAPTION"
+msgid "Hash Text"
+msgstr "ハッシュ テキスト"
+
+#: tformtext.caption
+msgctxt "TFORMTEXT.CAPTION"
+msgid "Hash Text"
+msgstr "ハッシュ テキスト"
+
+#: tformtext.groupboxencoding.caption
+msgid "Encoding:"
+msgstr "エンコーディング:"
+
+#: tformtext.rb_encodingansi.caption
+msgid "ANSI"
+msgstr "ANSI"
+
+#: tformtext.rb_encodingunicode.caption
+msgid "Unicode"
+msgstr "Unicode"
+
+#: tformtext.rb_encodingutf8.caption
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: ufunctions.sshellopenfileerror
+msgid "Could not open the following path:"
+msgstr "次のパスを開くことができません:"
+
+#: ufunctions.ssizebytes
+msgid "B"
+msgstr ""
+
+#: ufunctions.ssizegb
+msgid "GB"
+msgstr ""
+
+#: ufunctions.ssizeinbytes
+msgid "%s bytes"
+msgstr ""
+
+#: ufunctions.ssizekb
+msgid "KB"
+msgstr ""
+
+#: ufunctions.ssizemb
+msgid "MB"
+msgstr ""
+
+#: ufunctions.sspeedpersecbytes
+msgid "B/s"
+msgstr ""
+
+#: ufunctions.sspeedpersecgb
+msgid "GB/s"
+msgstr ""
+
+#: ufunctions.sspeedperseckb
+msgid "KB/s"
+msgstr ""
+
+#: ufunctions.sspeedpersecmb
+msgid "MB/s"
+msgstr ""
+
+#: uhasher.sed2knodigestblocks
+msgid "ED2K digest blocks are not available"
+msgstr "ED2K ダイジェストブロックは使用できません"
+
+#: uhasher.sed2kovertheblocksize
+msgid "ED2K went over the block size"
+msgstr "ED2K ブロックサイズを超過しています"
+
+#: uhasher.sfailedtoreadfileproperties
+msgid "Failed to read file properties"
+msgstr "ファイル プロパティの読み取りに失敗"
+
+#: uhasher.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "ダイジェストサイズの誤り %s"
+
+#: uhasher.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "無効なデータまたはバッファサイズ"
+
+#: uhasher.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "未対応のハッシュ形式: %s"
+
+#: uhashertests.sselftestfailed
+msgid "Failed %d out of %d self tests."
+msgstr "%d %d のセルフテストに失敗."
+
+#: uhashertests.sselftestpassed
+msgid "Passed all %d self tests."
+msgstr "すべての %d セルフテストに合格"
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "ライセンスファイル用のディレクトリが作成できません。"
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "連絡先E-メール"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "連絡先名"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "ファイル削除に失敗:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "ライセンスデータの読み込みに失敗:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "ライセンスデータの保存に失敗:"
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "発行日"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "ライセンス"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "ライセンス"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "ライセンスはブラックリストに登録されています。"
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "ライセンスの有効期限"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "ライセンスの期限切れ"
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "無効なライセンスです!"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "ライセンスの読み込みに失敗."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "製品のアクティベートには、ライセンスを更新する必要があります。"
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "ライセンスの除去に失敗."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "ライセンスは除去されました"
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "あなたのライセンスはアップグレード期限が切れています"
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "コンピュータの数"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "無効な登録コードです"
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "登録ファイルがみつかりません"
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "登録ファイルの読み込みに失敗"
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "登録が正常に完了しました!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "アップグレードの有効期限"
+
+#: uthreads.sthreadqueuesnotassigned
+msgid "Thread queues are not assigned"
+msgstr "スレッド キューが割り当てられていません"
+
+#: uverificationfile.snotsupportedverificationformat
+msgid "Not supported verification format (%d)"
+msgstr "未対応の検証形式 (%d)"
+
+#: uverificationfile.sverifyformatsfv
+msgid "Simple file verification (SFV)"
+msgstr "簡易ファイル検証 (SFV)"
+
+#: uverificationfile.sverifyformatsum
+msgid "Sum file (MD5SUM, SHA1SUM, etc)"
+msgstr "Sum ファイル (MD5SUM, SHA1SUM, 他)"
+

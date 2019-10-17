@@ -1,0 +1,1086 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Hasher\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Country: ru\n"
+"X-Country-Name: Russia\n"
+"X-Language-Name: Russian\n"
+"X-Language-Name-Native: Русский\n"
+"X-Translators: Денис Козлов\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: fcompare.sautopastedfromclipboard
+msgid "Auto pasted from clipboard"
+msgstr "Автоматически вставлено из буфера обмена"
+
+#: fcomparefiles.smatchinghashes
+msgid "Matching:"
+msgstr "Совпадающие:"
+
+#: fcomparefiles.snotmatchinghashes
+msgid "Not matching:"
+msgstr "Несовпадающие:"
+
+#: fcomparefiles.snummatchedhashes
+msgid "Result: %d out of %d available hashes matched."
+msgstr "Результат: %d из %d доступных хешей совпали."
+
+#: fmain.serroroccurred
+msgid "An error has occurred."
+msgstr "Произошла ошибка."
+
+#: fmain.sfailedtosavelog
+msgid "Failed to save the log:"
+msgstr "Не получилось сохранить журнал:"
+
+#: fmain.sfilecancelled
+msgid "File cancelled"
+msgstr "Файл отменен"
+
+#: fmain.sfilenotfound
+msgid "File not found"
+msgstr "Файл не найден"
+
+#: fmain.shashcoppied
+msgid "copied"
+msgstr "скопированы"
+
+#: fmain.shashesoffilesdontmatch
+msgid "Hashes of files do not match"
+msgstr "Хеши файлов не совпадают"
+
+#: fmain.slogfilesaved
+msgid "Log file saved"
+msgstr "Журнал сохранен"
+
+#: fmain.sstatuscancelled
+msgid "Cancelled"
+msgstr "Отменено"
+
+#: fmain.sstatuserror
+msgctxt "fmain.sstatuserror"
+msgid "Error"
+msgstr "Ошибка"
+
+#: fmain.sstatusfinished
+msgid "Finished"
+msgstr "Закончено"
+
+#: fmain.sstatuslogcleared
+msgid "Log cleared"
+msgstr "Журнал очищен"
+
+#: fmain.sstatusmessagescleared
+msgid "Messages cleared"
+msgstr "Сообщения очищены"
+
+#: fmain.sstatusready
+msgid "Ready"
+msgstr "Готов"
+
+#: fmain.sstatusworking
+msgid "Working..."
+msgstr "Работаю..."
+
+#: fmain.stexthashed
+msgid "Text hashed"
+msgstr "Текст захеширован"
+
+#: fmain.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Хотите купить \"Pro\" версию для удаления этого ограничения?"
+
+#: fmain.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Хотите купить \"Pro\" версию для разблокировки этой функции?"
+
+#: fmain.s_cannot_create_license_dir
+msgctxt "fmain.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Не удалось создать папку для файла лицензии."
+
+#: fmain.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Вы уверены, что хотите отменить регистрацию продукта?\n"
+"\n"
+"Это действие удалит вашу лицензию и деактивирует \"Pro\" версию.\n"
+
+#: fmain.s_contact_email
+msgctxt "fmain.s_contact_email"
+msgid "Contact email"
+msgstr "Контактный email"
+
+#: fmain.s_contact_name
+msgctxt "fmain.s_contact_name"
+msgid "Contact name"
+msgstr "Контактное имя"
+
+#: fmain.s_error_details
+msgctxt "fmain.s_error_details"
+msgid "Error"
+msgstr "Ошибка"
+
+#: fmain.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Данная функция недоступна в этой версии."
+
+#: fmain.s_free_license_note
+msgctxt "fmain.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Это приложение можно использовать и распространять ТОЛЬКО в некоммерческих целях и со ссылкой на автора."
+
+#: fmain.s_issue_date
+msgctxt "fmain.s_issue_date"
+msgid "Issue date"
+msgstr "Дата выдачи"
+
+#: fmain.s_license
+msgctxt "fmain.s_license"
+msgid "License"
+msgstr "Лицензия"
+
+#: fmain.s_licensed_to
+msgctxt "fmain.s_licensed_to"
+msgid "Licensed to"
+msgstr "Лицензия для"
+
+#: fmain.s_license_expiry
+msgctxt "fmain.s_license_expiry"
+msgid "License expiry"
+msgstr "Дата истечения"
+
+#: fmain.s_license_has_expired
+msgctxt "fmain.s_license_has_expired"
+msgid "License has expired."
+msgstr "Лицензия истекла."
+
+#: fmain.s_license_load_failed
+msgctxt "fmain.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Не удалось загрузить лицензию."
+
+#: fmain.s_license_remove_failed
+msgctxt "fmain.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Не удалось удалить лицензию."
+
+#: fmain.s_license_remove_ok
+msgctxt "fmain.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Лицензия была удалена."
+
+#: fmain.s_maxallowedfilesperrun
+msgid "This version is limited to a maximum of %s files per run."
+msgstr "Эта версия ограничена максимум %s файлов за раз."
+
+#: fmain.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(для некоммерческого использования)"
+
+#: fmain.s_number_of_computers
+msgctxt "fmain.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Количество компьютеров"
+
+#: fmain.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Для дополнительной информации прочтите полный код лицензии"
+
+#: fmain.s_registration_error
+msgctxt "fmain.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Недопустимый код регистрации."
+
+#: fmain.s_registration_ok
+msgctxt "fmain.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Успешная регистрация!"
+
+#: fmain.s_upgrade_expiry
+msgctxt "fmain.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Дата истечения обновлений"
+
+#: fsavelog.shashtypeauto
+msgid "Auto"
+msgstr "Авто"
+
+#: tformabout.caption
+msgctxt "tformabout.caption"
+msgid "About"
+msgstr "О программе"
+
+#: tformabout.label_author.caption
+msgid "den4b Team"
+msgstr ""
+
+#: tformabout.label_author2.caption
+msgid "Author:"
+msgstr "Автор:"
+
+#: tformabout.label_date.caption
+msgid "Date:"
+msgstr "Дата:"
+
+#: tformabout.label_email.caption
+msgid "support@den4b.com"
+msgstr ""
+
+#: tformabout.label_email2.caption
+msgid "Email:"
+msgstr "Email:"
+
+#: tformabout.label_title.caption
+msgctxt "tformabout.label_title.caption"
+msgid "Hasher"
+msgstr ""
+
+#: tformabout.label_version.caption
+msgid "Version:"
+msgstr "Версия:"
+
+#: tformabout.label_website.caption
+msgid "www.den4b.com"
+msgstr ""
+
+#: tformabout.label_website2.caption
+msgid "Website:"
+msgstr "Сайт:"
+
+#: tformcompare.caption
+msgid "Compare Hash"
+msgstr "Сравнить хеш"
+
+#: tformcompare.cb_comparetoanyhash.caption
+msgid "Compare to any of the available hash types"
+msgstr "Сравнить с любыми из доступных хешей"
+
+#: tformcompare.label1.caption
+msgid "Your hash:"
+msgstr "Ваш хеш:"
+
+#: tformcompare.label2.caption
+msgid "Comparing to:"
+msgstr "Сравнение с:"
+
+#: tformcompare.label_hashtype.caption
+msgctxt "TFORMCOMPARE.LABEL_HASHTYPE.CAPTION"
+msgid "..."
+msgstr ""
+
+#: tformcompare.label_pasted.caption
+msgctxt "tformcompare.label_pasted.caption"
+msgid "..."
+msgstr ""
+
+#: tformcomparefiles.caption
+msgid "Compare Files"
+msgstr "Сравнить файл(ы)"
+
+#: tformcomparefiles.label1.caption
+msgid "Additional information:"
+msgstr "Дополнительная информация:"
+
+#: tformcomparefiles.label_filea.caption
+msgid "File A:"
+msgstr "Файл А:"
+
+#: tformcomparefiles.label_fileb.caption
+msgid "File B:"
+msgstr "Файл Б:"
+
+#: tformlogviewer.caption
+msgid "Log Viewer"
+msgstr "Журнал"
+
+#: tformlogviewer.listview.columns[0].caption
+msgid "#"
+msgstr ""
+
+#: tformlogviewer.listview.columns[1].caption
+msgctxt "tformlogviewer.listview.columns[1].caption"
+msgid "File"
+msgstr "Файл"
+
+#: tformlogviewer.listview.columns[2].caption
+msgid "Size"
+msgstr "Размер"
+
+#: tformlogviewer.tb_copytoclipboard.caption
+msgctxt "tformlogviewer.tb_copytoclipboard.caption"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.actionabout.caption
+msgctxt "TFORMMAIN.ACTIONABOUT.CAPTION"
+msgid "About"
+msgstr "О программе"
+
+#: tformmain.actionaddfiles.caption
+msgctxt "tformmain.actionaddfiles.caption"
+msgid "Add Files"
+msgstr "Добавить файлы"
+
+#: tformmain.actionaddfiles.hint
+msgctxt "TFORMMAIN.ACTIONADDFILES.HINT"
+msgid "Add Files"
+msgstr "Добавить файлы"
+
+#: tformmain.actionaddfolder.caption
+msgctxt "tformmain.actionaddfolder.caption"
+msgid "Add Folder"
+msgstr "Добавить папку"
+
+#: tformmain.actionaddfolder.hint
+msgctxt "TFORMMAIN.ACTIONADDFOLDER.HINT"
+msgid "Add Folder"
+msgstr "Добавить папку"
+
+#: tformmain.actioncancel.caption
+msgctxt "tformmain.actioncancel.caption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tformmain.actioncancel.hint
+msgid "Cancel all files"
+msgstr "Отменить все файлы"
+
+#: tformmain.actionclearlog.caption
+msgid "Clear Log"
+msgstr "Очистить журнал"
+
+#: tformmain.actionclearmessages.caption
+msgid "Clear Messages"
+msgstr "Очистить сообщения"
+
+#: tformmain.actioncomparenexttwofiles.caption
+msgid "Compare next two files (Hold CTRL)"
+msgstr "Сравнить следующие два файла (держать CTRL)"
+
+#: tformmain.actioncomparetonextfile.caption
+msgid "Compare to next file (Hold SHIFT)"
+msgstr "Сравнить со следующим файлом (держать SHIFT)"
+
+#: tformmain.actioncopymessages.caption
+msgid "Copy Messages"
+msgstr "Копировать сообщения"
+
+#: tformmain.actioncopyrights.caption
+msgid "Copyrights"
+msgstr "Авторские права"
+
+#: tformmain.actionexit.caption
+msgid "Exit"
+msgstr "Выход"
+
+#: tformmain.actionexporttoclipboard.caption
+msgid "Export file info to clipboard"
+msgstr "Экспорт информации файла в буфер обмена"
+
+#: tformmain.actionforum.caption
+msgid "Forum (online)"
+msgstr "Форум (онлайн)"
+
+#: tformmain.actionhelp.caption
+msgid "Help (online)"
+msgstr "Справка (онлайн)"
+
+#: tformmain.actionhistory.caption
+msgid "Version History"
+msgstr "История версий"
+
+#: tformmain.actionlitevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Сравнить Lite и Pro (онлайн)"
+
+#: tformmain.actionpurchase.caption
+msgid "Purchase (online)"
+msgstr "Купить (онлайн)"
+
+#: tformmain.actionregister.caption
+msgctxt "tformmain.actionregister.caption"
+msgid "Register"
+msgstr "Зарегистрировать"
+
+#: tformmain.actionrehashfile.hint
+msgid "Rehash current file"
+msgstr "Обновить текущий файл"
+
+#: tformmain.actionsavelog.caption
+msgctxt "TFORMMAIN.ACTIONSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "Сохранить журнал"
+
+#: tformmain.actionselectall.caption
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: tformmain.actionselectnone.caption
+msgid "Select None"
+msgstr "Снять выбор"
+
+#: tformmain.actionsettings.caption
+msgctxt "tformmain.actionsettings.caption"
+msgid "Settings"
+msgstr "Настройки"
+
+#: tformmain.actionskip.caption
+msgid "Skip"
+msgstr "Пропустить"
+
+#: tformmain.actionskip.hint
+msgid "Skip current file"
+msgstr "Пропустить текущий файл"
+
+#: tformmain.actiontexthash.caption
+msgctxt "tformmain.actiontexthash.caption"
+msgid "Hash Text"
+msgstr "Хешировать текст"
+
+#: tformmain.actiontexthash.hint
+msgctxt "TFORMMAIN.ACTIONTEXTHASH.HINT"
+msgid "Hash Text"
+msgstr "Хешировать текст"
+
+#: tformmain.actiontogglemessages.caption
+msgctxt "tformmain.actiontogglemessages.caption"
+msgid "Toggle Messages"
+msgstr "Сообщения"
+
+#: tformmain.actiontogglemessages.hint
+msgctxt "TFORMMAIN.ACTIONTOGGLEMESSAGES.HINT"
+msgid "Toggle Messages"
+msgstr "Сообщения"
+
+#: tformmain.actionunregister.caption
+msgid "Unregister"
+msgstr "Отмена регистрации"
+
+#: tformmain.actionviewlog.caption
+msgctxt "tformmain.actionviewlog.caption"
+msgid "View Log"
+msgstr "Журнал"
+
+#: tformmain.actionviewlog.hint
+msgctxt "TFORMMAIN.ACTIONVIEWLOG.HINT"
+msgid "View Log"
+msgstr "Журнал"
+
+#: tformmain.caption
+msgctxt "TFORMMAIN.CAPTION"
+msgid "Hasher"
+msgstr ""
+
+#: tformmain.checkboxcrc32.caption
+msgid "CRC32"
+msgstr ""
+
+#: tformmain.checkboxed2k.caption
+msgid "ED2K"
+msgstr ""
+
+#: tformmain.checkboxmd2.caption
+msgid "MD2"
+msgstr ""
+
+#: tformmain.checkboxmd4.caption
+msgid "MD4"
+msgstr ""
+
+#: tformmain.checkboxmd5.caption
+msgid "MD5"
+msgstr ""
+
+#: tformmain.checkboxrmd128.caption
+msgid "RMD128"
+msgstr ""
+
+#: tformmain.checkboxrmd160.caption
+msgid "RMD160"
+msgstr ""
+
+#: tformmain.checkboxsha1.caption
+msgid "SHA1"
+msgstr ""
+
+#: tformmain.checkboxsha256.caption
+msgid "SHA256"
+msgstr ""
+
+#: tformmain.checkboxsha512.caption
+msgid "SHA512"
+msgstr ""
+
+#: tformmain.labelattributes.caption
+msgid "Attributes:"
+msgstr "Атрибуты:"
+
+#: tformmain.labelfilesize.caption
+msgid "File size:"
+msgstr "Размер:"
+
+#: tformmain.labelfiletimecreated.caption
+msgid "Created:"
+msgstr "Создан:"
+
+#: tformmain.labelfiletimemodified.caption
+msgid "Modified:"
+msgstr "Изменен:"
+
+#: tformmain.menuitem1.caption
+msgctxt "TFORMMAIN.MENUITEM1.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem20.caption
+msgctxt "TFORMMAIN.MENUITEM20.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem21.caption
+msgctxt "TFORMMAIN.MENUITEM21.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem23.caption
+msgctxt "TFORMMAIN.MENUITEM23.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem24.caption
+msgctxt "TFORMMAIN.MENUITEM24.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem3.caption
+msgctxt "tformmain.menuitem3.caption"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem31.caption
+msgctxt "TFORMMAIN.MENUITEM31.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem33.caption
+msgctxt "TFORMMAIN.MENUITEM33.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem4.caption
+msgctxt "TFORMMAIN.MENUITEM4.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem8.caption
+msgctxt "TFORMMAIN.MENUITEM8.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.mi_filemenu.caption
+msgctxt "TFORMMAIN.MI_FILEMENU.CAPTION"
+msgid "File"
+msgstr "Файл"
+
+#: tformmain.mi_helpmenu.caption
+msgid "Help"
+msgstr "Справка"
+
+#: tformmain.mi_language.caption
+msgid "Language"
+msgstr "Язык"
+
+#: tformmain.mi_logmenu.caption
+msgid "Log"
+msgstr "Журнал"
+
+#: tformmain.mi_optionsmenu.caption
+msgid "Options"
+msgstr "Опции"
+
+#: tformmain.opendialog.title
+msgid "Add files"
+msgstr "Доб. файлы"
+
+#: tformmain.panel_draganddrop.caption
+msgid "Drag and drop your files and folders"
+msgstr "Перетащите сюда ваши файлы и папки"
+
+#: tformmain.panel_holdcontrol.caption
+msgid "Hold SHIFT to compare to next or CTRL to compare two files"
+msgstr "Держите SHIFT для сравнения со следующим, CTRL для сравнения двух"
+
+#: tformmain.sb_comparecrc32.hint
+msgctxt "tformmain.sb_comparecrc32.hint"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_compareed2k.hint
+msgctxt "TFORMMAIN.SB_COMPAREED2K.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparemd2.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD2.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparemd4.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD4.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparemd5.hint
+msgctxt "TFORMMAIN.SB_COMPAREMD5.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparermd128.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD128.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparermd160.hint
+msgctxt "TFORMMAIN.SB_COMPARERMD160.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparesha1.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA1.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparesha256.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA256.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_comparesha512.hint
+msgctxt "TFORMMAIN.SB_COMPARESHA512.HINT"
+msgid "Compare hash"
+msgstr "Сравнить хеш"
+
+#: tformmain.sb_copycrc32.hint
+msgctxt "TFORMMAIN.SB_COPYCRC32.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copyed2k.hint
+msgctxt "TFORMMAIN.SB_COPYED2K.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copymd2.hint
+msgctxt "TFORMMAIN.SB_COPYMD2.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copymd4.hint
+msgctxt "TFORMMAIN.SB_COPYMD4.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copymd5.hint
+msgctxt "TFORMMAIN.SB_COPYMD5.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copyrmd128.hint
+msgctxt "TFORMMAIN.SB_COPYRMD128.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copyrmd160.hint
+msgctxt "TFORMMAIN.SB_COPYRMD160.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copysha1.hint
+msgctxt "TFORMMAIN.SB_COPYSHA1.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copysha256.hint
+msgctxt "TFORMMAIN.SB_COPYSHA256.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.sb_copysha512.hint
+msgctxt "TFORMMAIN.SB_COPYSHA512.HINT"
+msgid "Copy to clipboard"
+msgstr "Копировать в буфера обмена"
+
+#: tformmain.selectdirectorydialog.title
+msgid "Add folders"
+msgstr "Добавить папки"
+
+#: tformmain.tb_savelog.hint
+msgctxt "tformmain.tb_savelog.hint"
+msgid "Save Log"
+msgstr "Сохранить журнал"
+
+#: tformregister.bb_cancel.caption
+msgctxt "TFORMREGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tformregister.bb_register.caption
+msgctxt "TFORMREGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Зарегистрировать"
+
+#: tformregister.caption
+msgid "Registration"
+msgstr "Регистрация"
+
+#: tformregister.label_entercode.caption
+msgid "Please enter your registration code:"
+msgstr "Пожалуйста, введите ваш регистрационный код:"
+
+#: tformsavelog.bitbtn_cancel.caption
+msgctxt "TFORMSAVELOG.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tformsavelog.bitbtn_save.caption
+msgctxt "tformsavelog.bitbtn_save.caption"
+msgid "Save"
+msgstr "Сохранить"
+
+#: tformsavelog.caption
+msgctxt "TFORMSAVELOG.CAPTION"
+msgid "Save Log"
+msgstr "Сохранить журнал"
+
+#: tformsavelog.label_fileformat.caption
+msgid "File format:"
+msgstr "Формат файла:"
+
+#: tformsavelog.label_hashtype.caption
+msgid "Hash type:"
+msgstr "Тип хеша:"
+
+#: tformsavelog.label_targetpath.caption
+msgid "Target file path:"
+msgstr "Путь файла:"
+
+#: tformsavelog.radiobutton_usefilenameonly.caption
+msgid "Use file names only"
+msgstr "Использовать имена файлов"
+
+#: tformsavelog.radiobutton_usefilepath.caption
+msgid "Use file paths"
+msgstr "Использовать полный путь файлов"
+
+#: tformsettings.bb_cancel.caption
+msgctxt "TFORMSETTINGS.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tformsettings.bb_save.caption
+msgctxt "TFORMSETTINGS.BB_SAVE.CAPTION"
+msgid "Save"
+msgstr "Сохранить"
+
+#: tformsettings.caption
+msgctxt "TFORMSETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Настройки"
+
+#: tformsettings.cb_includeheaderinlogviewerexport.caption
+msgid "Include header in the log viewer export"
+msgstr "Включать заголовок в экспорте журнала"
+
+#: tformsettings.cb_rememberlocationlogviewer.caption
+msgid "Remember location of the log viewer"
+msgstr "Запоминать расположение журнала"
+
+#: tformsettings.cb_rememberlocationmainwindow.caption
+msgid "Remember location of the main window"
+msgstr "Запоминать расположение главного окна"
+
+#: tformsettings.cb_showtoolbarcaptions.caption
+msgid "Show captions of buttons in the toolbar"
+msgstr "Показать названия кнопок на панели"
+
+#: tformsettings.cb_stayontop.caption
+msgid "Stay on top of other windows"
+msgstr "Поверх других окон"
+
+#: tformsettings.cb_uppercasehash.caption
+msgid "Use upper case hashes"
+msgstr "Хеши в верхний регистр"
+
+#: tformtermsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Принять"
+
+#: tformtermsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Сравнить Lite и Pro (онлайн)"
+
+#: tformtermsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Купить"
+
+#: tformtermsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Ввести код регистрации"
+
+#: tformtermsofuse.caption
+msgid "Terms of Use"
+msgstr "Условия использования"
+
+#: tformtermsofuse.groupbox1.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Условия использования данного приложения:"
+
+#: tformtermsofuse.label_commercial.caption
+msgid "For commercial use you must purchase a commercial license or a \"Pro\" version. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Для коммерческого использования, необходимо перейти на веб-сайт и приобрести коммерческую лицензию. Если же у вас уже есть лицензия, пожалуйста, введите свой регистрационный код. Спасибо вам за честность."
+
+#: tformtermsofuse.label_noncommercial.caption
+msgctxt "TFORMTERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Это приложение можно использовать и распространять ТОЛЬКО в некоммерческих целях и со ссылкой на автора."
+
+#: tformtermsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Пожалуйста подумайте о покупке \"Pro\" версии для поддержки разработки данного приложения."
+
+#: tformtext.bitbtnhash.caption
+msgctxt "TFORMTEXT.BITBTNHASH.CAPTION"
+msgid "Hash Text"
+msgstr "Хешировать текст"
+
+#: tformtext.caption
+msgctxt "TFORMTEXT.CAPTION"
+msgid "Hash Text"
+msgstr "Хешировать текст"
+
+#: tformtext.groupboxencoding.caption
+msgid "Encoding:"
+msgstr "Кодировка:"
+
+#: tformtext.rb_encodingansi.caption
+msgid "ANSI"
+msgstr ""
+
+#: tformtext.rb_encodingunicode.caption
+msgid "Unicode"
+msgstr "Юникод"
+
+#: tformtext.rb_encodingutf8.caption
+msgid "UTF-8"
+msgstr ""
+
+#: ufunctions.sshellopenfileerror
+msgid "Could not open the following path:"
+msgstr "Не удается открыть следующий путь:"
+
+#: ufunctions.ssizebytes
+msgid "B"
+msgstr "Б"
+
+#: ufunctions.ssizegb
+msgid "GB"
+msgstr "ГБ"
+
+#: ufunctions.ssizeinbytes
+msgid "%s bytes"
+msgstr ""
+
+#: ufunctions.ssizekb
+msgid "KB"
+msgstr "КБ"
+
+#: ufunctions.ssizemb
+msgid "MB"
+msgstr "МБ"
+
+#: ufunctions.sspeedpersecbytes
+msgid "B/s"
+msgstr "Б/с"
+
+#: ufunctions.sspeedpersecgb
+msgid "GB/s"
+msgstr "ГБ/с"
+
+#: ufunctions.sspeedperseckb
+msgid "KB/s"
+msgstr "КБ/с"
+
+#: ufunctions.sspeedpersecmb
+msgid "MB/s"
+msgstr "МБ/с"
+
+#: uhasher.sed2knodigestblocks
+msgid "ED2K digest blocks are not available"
+msgstr ""
+
+#: uhasher.sed2kovertheblocksize
+msgid "ED2K went over the block size"
+msgstr ""
+
+#: uhasher.sfailedtoreadfileproperties
+msgid "Failed to read file properties"
+msgstr "Ошибка чтения свойств файла"
+
+#: uhasher.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr ""
+
+#: uhasher.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr ""
+
+#: uhasher.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr ""
+
+#: uhashertests.sselftestfailed
+msgid "Failed %d out of %d self tests."
+msgstr ""
+
+#: uhashertests.sselftestpassed
+msgid "Passed all %d self tests."
+msgstr ""
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Не удалось создать папку для файла лицензии."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "Контактный email"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "Контактное имя"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Не удалось удалить файл:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Не удалось загрузить лицензионное данные:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Не удалось сохранить лицензионный данные:"
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "Дата выдачи"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "Лицензия"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "Лицензия для"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Лицензия занесена в черный список."
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "Дата истечения"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "Лицензия истекла."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "Лицензия недействительна!"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Не удалось загрузить лицензию."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "Вам нужно обновить лицензию чтобы активировать продукт."
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Не удалось удалить лицензию."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Лицензия была удалена."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Ваша лицензия вне периода обновления."
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Количество компьютеров"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Недопустимый код регистрации."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Регистрационный файл не найден."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Ошибка чтения регистрационного файла."
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Успешная регистрация!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Дата истечения обновлений"
+
+#: uthreads.sthreadqueuesnotassigned
+msgid "Thread queues are not assigned"
+msgstr ""
+
+#: uverificationfile.snotsupportedverificationformat
+msgid "Not supported verification format (%d)"
+msgstr ""
+
+#: uverificationfile.sverifyformatsfv
+msgid "Simple file verification (SFV)"
+msgstr ""
+
+#: uverificationfile.sverifyformatsum
+msgid "Sum file (MD5SUM, SHA1SUM, etc)"
+msgstr ""
+
