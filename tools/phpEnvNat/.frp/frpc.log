@@ -1,0 +1,14 @@
+2019/10/23 17:24:03 [W] [service.go:86] login to server failed: dial tcp 0.0.0.0:7000: connectex: No connection could be made because the target machine actively refused it.
+2019/10/23 17:26:13 [W] [service.go:86] login to server failed: EOF
+2019/10/23 17:26:18 [W] [service.go:86] login to server failed: EOF
+2019/10/23 17:29:41 [W] [service.go:86] login to server failed: EOF
+2019/10/23 18:45:36 [E] [service.go:228] authorization failed
+2019/10/23 18:45:36 [W] [service.go:86] login to server failed: authorization failed
+2019/10/23 18:45:53 [E] [service.go:228] authorization failed
+2019/10/23 18:45:53 [W] [service.go:86] login to server failed: authorization failed
+2019/11/07 10:42:03 [E] [service.go:228] authorization failed
+2019/11/07 10:42:03 [W] [service.go:86] login to server failed: authorization failed
+2019/11/07 10:43:31 [E] [service.go:228] authorization failed
+2019/11/07 10:43:31 [W] [service.go:86] login to server failed: authorization failed
+2019/11/07 10:58:50 [E] [service.go:228] authorization failed
+2019/11/07 10:58:50 [W] [service.go:86] login to server failed: authorization failed
