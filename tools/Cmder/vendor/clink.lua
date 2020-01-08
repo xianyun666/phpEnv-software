@@ -189,12 +189,15 @@ end
 -- @return {false|mercurial branch name}
 ---
 local function get_hg_branch()
-    for line in io.popen("hg branch 2>nul"):lines() do
+    local file = io.popen("hg branch 2>nul")
+    for line in file:lines() do
         local m = line:match("(.+)$")
         if m then
+            file:close()
             return m
         end
     end
+    file:close()
 
     return false
 end
@@ -204,12 +207,15 @@ end
 -- @return {false|svn branch name}
 ---
 local function get_svn_branch(svn_dir)
-    for line in io.popen("svn info 2>nul"):lines() do
+    local file = io.popen("svn info 2>nul")
+    for line in file:lines() do
         local m = line:match("^Relative URL:")
         if m then
+            file:close()
             return line:sub(line:find("/")+1,line:len())
         end
     end
+    file:close()
 
     return false
 end
@@ -274,6 +280,24 @@ local function get_svn_status()
     return true
 end
 
+---
+-- Get the status of working dir
+-- @return {bool}
+---
+local function get_git_status_setting()
+    gitStatusSetting = io.popen("git --no-pager config -l 2>nul")
+
+    for line in gitStatusSetting:lines() do
+        if string.match(line, 'cmder.status=false') or string.match(line, 'cmder.cmdstatus=false') then
+          gitStatusSetting:close()
+          return false
+        end
+    end
+    gitStatusSetting:close()
+
+    return true
+end
+
 local function git_prompt_filter()
 
     -- Colors for git status
@@ -284,27 +308,30 @@ local function git_prompt_filter()
     }
 
     local git_dir = get_git_dir()
-    if git_dir then
-        -- if we're inside of git repo then try to detect current branch
-        local branch = get_git_branch(git_dir)
-        local color
-        if branch then
-            -- Has branch => therefore it is a git folder, now figure out status
-            local gitStatus = get_git_status()
-            local gitConflict = get_git_conflict()
 
-            color = colors.dirty
-            if gitStatus then
-                color = colors.clean
-            end
+    if get_git_status_setting() then
+      if git_dir then
+          -- if we're inside of git repo then try to detect current branch
+          local branch = get_git_branch(git_dir)
+          local color
+          if branch then
+              -- Has branch => therefore it is a git folder, now figure out status
+              local gitStatus = get_git_status()
+              local gitConflict = get_git_conflict()
 
-            if gitConflict then
-                color = colors.conflict
-            end 
+              color = colors.dirty
+              if gitStatus then
+                  color = colors.clean
+              end
 
-            clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."("..verbatim(branch)..")")
-            return false
-        end
+              if gitConflict then
+                  color = colors.conflict
+              end 
+
+              clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."("..verbatim(branch)..")")
+              return false
+          end
+      end
     end
 
     -- No git present or not in git file
@@ -324,26 +351,26 @@ local function hg_prompt_filter()
             dirty = "\x1b[31;1m",
         }
 
-        -- 'hg id' gives us BOTH the branch name AND an indicator that there
-        -- are uncommitted changes, in one fast(er) call
-        local pipe = io.popen("hg id 2>&1")
+        local pipe = io.popen("hg branch 2>&1")
         local output = pipe:read('*all')
         local rc = { pipe:close() }
 
-        if output ~= nil and
-           string.sub(output,1,7) ~= "abort: " and             -- not an HG working copy
-           string.sub(output,1,12) ~= "000000000000" and       -- empty wc (needs update)
-           (not string.find(output, "is not recognized")) then -- 'hg' not in path
+        -- strip the trailing newline from the branch name
+        local n = #output
+        while n > 0 and output:find("^%s", n) do n = n - 1 end
+        local branch = output:sub(1, n)
+
+        if branch ~= nil and
+           string.sub(branch,1,7) ~= "abort: " and             -- not an HG working copy
+           (not string.find(branch, "is not recognized")) then -- 'hg' not in path
             local color = colors.clean
-            -- split elements on space delimiter
-            local items = {}
-            for i in string.gmatch(output, "%S+") do
-                table.insert(items, i)
-            end
-            -- if the repo hash ends with '+', the wc has uncommitted changes
-            if string.sub(items[1], -1, -1) == "+" then color = colors.dirty end
-            -- substitute the branch in directly -- already WITH parentheses.  :)
-            result = color .. items[2] -- string.sub(items[2], 1, string.len(items[2]) - 1)
+
+            local pipe = io.popen("hg status -amrd 2>&1")
+            local output = pipe:read('*all')
+            local rc = { pipe:close() }
+
+            if output ~= nil and output ~= "" then color = colors.dirty end
+            result = color .. "(" .. branch .. ")"
         end
     end
 
@@ -379,7 +406,24 @@ local function svn_prompt_filter()
     return false
 end
 
+local function tilde_match (text, f, l)
+    if text == '~' then
+        clink.add_match(clink.get_env('userprofile'))
+        clink.matches_are_files()
+        return true
+    end
+
+    if text:sub(1, 1) == '~' then
+        clink.add_match(string.gsub(text, "~", clink.get_env('userprofile'), 1))
+        -- second match prevents adding a space so we can look for more matches
+        clink.add_match(string.gsub(text, "~", clink.get_env('userprofile'), 1) .. '+')
+        clink.matches_are_files()
+        return true
+    end
+end
+
 -- insert the set_prompt at the very beginning so that it runs first
+clink.register_match_generator(tilde_match, 1)
 clink.prompt.register_filter(set_prompt_filter, 1)
 clink.prompt.register_filter(hg_prompt_filter, 50)
 clink.prompt.register_filter(git_prompt_filter, 50)
